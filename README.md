@@ -1,21 +1,20 @@
 # poke-ts
-pequeno projeto de info de pokemon usando pokeapi na typescript.
+Pokemon info project using pokeapi in typescript.
 
-## Pré-requisitos para instalar
+## Prerequisites for installation
 
 Node.js
 
-### Instalação
-1. Clone o repositório
+### Installation
+1. Clone the repository
 git clone https://github.com/S4nnix/poke-ts.git
 cd poke-ts
 
-2. Instale as dependências executando "npm install" e espere terminar a instalação.
+2. Install the dependencies by running "npm install" and wait for the installation to finish.
 
-3. Execute "ts-node poke.ts" para iniciar o projeto.
+3. Run "ts-node poke.ts" to start the project.
 
-// O projeto estará disponível em http://localhost:3000
-
-## Como usar
-/pokes = Conteúdo de pokemons.json com informações sobre todos os Pokémon.
-/pokes/:param (nome ou numero do pokemon) =  Exibe informações básicas sobre o Pokémon pesquisado, se não estiver em pokemons.json, ele pega informações do pokeapi e salva essas informações em pokemons.json.
+// The project will be available at http://localhost:3000
+## How to use
+/pokes = Contents of pokemons.json with information about all Pokémon.
+/pokes/:param (pokemon name or number) =  Displays basic information about the searched Pokémon, if it is not in pokemons.json, it takes information from pokeapi and saves that information in pokemons.json.
