@@ -8,7 +8,7 @@ Node.js
 ### Instalação
 1. Clone o repositório
 git clone https://github.com/S4nnix/poke-ts.git
-cd seu-repositorio
+cd poke-ts
 
 2. Instale as dependências executando "npm install" e espere terminar a instalação
 
