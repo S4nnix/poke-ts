@@ -15,3 +15,7 @@ cd seu-repositorio
 3. Execute "ts-node poke.ts" para iniciar o projeto
 
 // O projeto estará disponível em http://localhost:3000
+
+## Como usar
+/pokes = Conteúdo de pokemons.json com informações sobre todos os Pokémon
+/pokes/:param (nome ou numero do pokemon) =  Exibe informações básicas sobre o Pokémon pesquisado, se não estiver em pokemons.json, ele pega informações do pokeapi e salva essas informações em pokemons.json
