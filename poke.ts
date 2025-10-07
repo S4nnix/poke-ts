@@ -3,12 +3,12 @@ import fs from "fs";
 
 const FILE_PATH = "pokemons.json";
 
-interface Starter {
+type Starter = {
   pkm: string;
   tipo: string;
   ndex: number;
   gen: number;
-}
+};
 
 const typeTranslations: Record<string, string> = {
   normal: "normal",
@@ -39,35 +39,7 @@ function capitalizarNombre(nombre: string): string {
     .join(" ");
 }
 
-const defaultStarters: Starter[] = [
-  { pkm: "Bulbasaur", tipo: "planta/veneno", ndex: 1, gen: 1 },
-  { pkm: "Charmander", tipo: "fuego", ndex: 4, gen: 1 },
-  { pkm: "Squirtle", tipo: "agua", ndex: 7, gen: 1 },
-  { pkm: "Chikorita", tipo: "planta", ndex: 152, gen: 2 },
-  { pkm: "Cyndaquil", tipo: "fuego", ndex: 155, gen: 2 },
-  { pkm: "Totodile", tipo: "agua", ndex: 158, gen: 2 },
-  { pkm: "Treecko", tipo: "planta", ndex: 252, gen: 3 },
-  { pkm: "Torchic", tipo: "fuego", ndex: 255, gen: 3 },
-  { pkm: "Mudkip", tipo: "agua", ndex: 258, gen: 3 },
-  { pkm: "Turtwig", tipo: "planta", ndex: 387, gen: 4 },
-  { pkm: "Chimchar", tipo: "fuego", ndex: 390, gen: 4 },
-  { pkm: "Piplup", tipo: "agua", ndex: 393, gen: 4 },
-  { pkm: "Snivy", tipo: "planta", ndex: 495, gen: 5 },
-  { pkm: "Tepig", tipo: "fuego", ndex: 498, gen: 5 },
-  { pkm: "Oshawott", tipo: "agua", ndex: 501, gen: 5 },
-  { pkm: "Chespin", tipo: "planta", ndex: 650, gen: 6 },
-  { pkm: "Fennekin", tipo: "fuego", ndex: 653, gen: 6 },
-  { pkm: "Froakie", tipo: "agua", ndex: 656, gen: 6 },
-  { pkm: "Rowlet", tipo: "planta/volador", ndex: 722, gen: 7 },
-  { pkm: "Litten", tipo: "fuego", ndex: 725, gen: 7 },
-  { pkm: "Popplio", tipo: "agua", ndex: 728, gen: 7 },
-  { pkm: "Grookey", tipo: "planta", ndex: 810, gen: 8 },
-  { pkm: "Scorbunny", tipo: "fuego", ndex: 813, gen: 8 },
-  { pkm: "Sobble", tipo: "agua", ndex: 816, gen: 8 },
-  { pkm: "Sprigatito", tipo: "planta", ndex: 906, gen: 9 },
-  { pkm: "Fuecoco", tipo: "fuego", ndex: 909, gen: 9 },
-  { pkm: "Quaxly", tipo: "agua", ndex: 912, gen: 9 },
-];
+
 
 function guardarPokes() {
   fs.writeFileSync(FILE_PATH, JSON.stringify(starters, null, 2));
@@ -78,22 +50,34 @@ function cargarPokes(): Starter[] {
     const data = fs.readFileSync(FILE_PATH, "utf-8");
     return JSON.parse(data) as Starter[];
   }
-  fs.writeFileSync(FILE_PATH, JSON.stringify(defaultStarters, null, 2));
-  return [...defaultStarters];
+  return [];
 }
 
 function getGen(ndex: number): number {
-  if (ndex >= 10001) return 0;
-  if (ndex <= 151) return 1;
-  if (ndex <= 251) return 2;
-  if (ndex <= 386) return 3;
-  if (ndex <= 493) return 4;
-  if (ndex <= 649) return 5;
-  if (ndex <= 721) return 6;
-  if (ndex <= 809) return 7;
-  if (ndex <= 905) return 8;
-  if (ndex <= 1025) return 9;
-  return 0;
+  switch (true) {
+    case ndex >= 10001:
+      return 0;
+    case ndex <= 151:
+      return 1;
+    case ndex <= 251:
+      return 2;
+    case ndex <= 386:
+      return 3;
+    case ndex <= 493:
+      return 4;
+    case ndex <= 649:
+      return 5;
+    case ndex <= 721:
+      return 6;
+    case ndex <= 809:
+      return 7;
+    case ndex <= 905:
+      return 8;
+    case ndex <= 1025:
+      return 9;
+    default:
+      return 0;
+  }
 }
 
 async function fetchStarter(name: string): Promise<Starter | null> {
@@ -141,7 +125,9 @@ app.get("/pokes/:param", async (req: Request, res: Response) => {
 
   if (isNaN(Number(param))) {
     const nombreNormalizado = capitalizarNombre(param);
-    starter = starters.find((s) => s.pkm.toLowerCase() === nombreNormalizado.toLowerCase());
+    starter = starters.find(
+      (s) => s.pkm.toLowerCase() === nombreNormalizado.toLowerCase()
+    );
   } else {
     const ndex = parseInt(param, 10);
     starter = starters.find((s) => s.ndex === ndex);
@@ -170,14 +156,21 @@ app.get("/pokes/:param", async (req: Request, res: Response) => {
 app.post("/pokes", (req: Request, res: Response) => {
   const añadirPoke: Starter = req.body;
 
-  if (!añadirPoke.pkm || !añadirPoke.tipo || !añadirPoke.ndex || !añadirPoke.gen) {
+  if (
+    !añadirPoke.pkm ||
+    !añadirPoke.tipo ||
+    !añadirPoke.ndex ||
+    !añadirPoke.gen
+  ) {
     return res.status(400).json({ error: "Faltan datos del Pokémon" });
   }
 
   añadirPoke.pkm = capitalizarNombre(añadirPoke.pkm);
 
   const duplicado = starters.some(
-    (s) => s.ndex === añadirPoke.ndex || s.pkm.toLowerCase() === añadirPoke.pkm.toLowerCase()
+    (s) =>
+      s.ndex === añadirPoke.ndex ||
+      s.pkm.toLowerCase() === añadirPoke.pkm.toLowerCase()
   );
   if (duplicado) {
     return res.status(409).json({ error: "El Pokémon ya existe" });
