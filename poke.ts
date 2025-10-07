@@ -131,7 +131,7 @@ app.get("/pokes", (req: Request, res: Response) => {
   res.json(starters);
 });
 
-app.get("/pokedex", (req: Request, res: Response) => {
+app.get("/", (req: Request, res: Response) => {
   res.sendFile(__dirname + "/index.html");
 });
 
@@ -187,10 +187,6 @@ app.post("/pokes", (req: Request, res: Response) => {
   starters.sort((a, b) => a.ndex - b.ndex);
   guardarPokes();
   res.status(201).json(añadirPoke);
-});
-
-app.get("/", (req: Request, res: Response) => {
-  res.send("Pagina ");
 });
 
 app.listen(port, () => {
