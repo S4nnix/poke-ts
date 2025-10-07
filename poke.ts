@@ -1,7 +1,7 @@
 import express, { Request, Response } from "express";
 import fs from "fs";
 
-const FILE_PATH = "pokemons.json";
+const pokemons = "pokemons.json";
 
 type Starter = {
   pkm: string;
@@ -42,12 +42,12 @@ function capitalizarNombre(nombre: string): string {
 
 
 function guardarPokes() {
-  fs.writeFileSync(FILE_PATH, JSON.stringify(starters, null, 2));
+  fs.writeFileSync(pokemons, JSON.stringify(starters, null, 2));
 }
 
 function cargarPokes(): Starter[] {
-  if (fs.existsSync(FILE_PATH)) {
-    const data = fs.readFileSync(FILE_PATH, "utf-8");
+  if (fs.existsSync(pokemons)) {
+    const data = fs.readFileSync(pokemons, "utf-8");
     return JSON.parse(data) as Starter[];
   }
   return [];
@@ -111,12 +111,33 @@ app.use(express.json());
 
 let starters: Starter[] = cargarPokes();
 
-app.get("/pokes", (req: Request, res: Response) => {
-  res.json(starters);
-});
+app.post("/pokes", (req: Request, res: Response) => {
+  const añadirPoke: Starter = req.body;
 
-app.get("/", (req: Request, res: Response) => {
-  res.sendFile(__dirname + "/index.html");
+  if (
+    !añadirPoke.pkm ||
+    !añadirPoke.tipo ||
+    !añadirPoke.ndex ||
+    !añadirPoke.gen
+  ) {
+    return res.status(400).json({ error: "Faltan datos del Pokémon" });
+  }
+
+  añadirPoke.pkm = capitalizarNombre(añadirPoke.pkm);
+
+  const duplicado = starters.some(
+    (s) =>
+      s.ndex === añadirPoke.ndex ||
+      s.pkm.toLowerCase() === añadirPoke.pkm.toLowerCase()
+  );
+  if (duplicado) {
+    return res.status(409).json({ error: "El Pokémon ya existe" });
+  }
+
+  starters.push(añadirPoke);
+  starters.sort((a, b) => a.ndex - b.ndex);
+  guardarPokes();
+  res.status(201).json(añadirPoke);
 });
 
 app.get("/pokes/:param", async (req: Request, res: Response) => {
@@ -153,34 +174,16 @@ app.get("/pokes/:param", async (req: Request, res: Response) => {
   res.json(starter);
 });
 
-app.post("/pokes", (req: Request, res: Response) => {
-  const añadirPoke: Starter = req.body;
 
-  if (
-    !añadirPoke.pkm ||
-    !añadirPoke.tipo ||
-    !añadirPoke.ndex ||
-    !añadirPoke.gen
-  ) {
-    return res.status(400).json({ error: "Faltan datos del Pokémon" });
-  }
-
-  añadirPoke.pkm = capitalizarNombre(añadirPoke.pkm);
-
-  const duplicado = starters.some(
-    (s) =>
-      s.ndex === añadirPoke.ndex ||
-      s.pkm.toLowerCase() === añadirPoke.pkm.toLowerCase()
-  );
-  if (duplicado) {
-    return res.status(409).json({ error: "El Pokémon ya existe" });
-  }
-
-  starters.push(añadirPoke);
-  starters.sort((a, b) => a.ndex - b.ndex);
-  guardarPokes();
-  res.status(201).json(añadirPoke);
+app.get("/pokes", (req: Request, res: Response) => {
+  res.json(starters);
 });
+
+app.get("/", (req: Request, res: Response) => {
+  res.sendFile(__dirname + "/index.html");
+});
+
+
 
 app.listen(port, () => {
   console.log(`Servidor corriendo en http://localhost:${port}`);
