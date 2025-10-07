@@ -1,0 +1,7778 @@
+[
+  {
+    "pkm": "Bulbasaur",
+    "tipo": "planta/veneno",
+    "ndex": 1,
+    "gen": 1
+  },
+  {
+    "pkm": "Ivysaur",
+    "tipo": "planta/veneno",
+    "ndex": 2,
+    "gen": 1
+  },
+  {
+    "pkm": "Venusaur",
+    "tipo": "planta/veneno",
+    "ndex": 3,
+    "gen": 1
+  },
+  {
+    "pkm": "Charmander",
+    "ndex": 4,
+    "tipo": "fuego",
+    "gen": 1
+  },
+  {
+    "pkm": "Charmeleon",
+    "ndex": 5,
+    "tipo": "fuego",
+    "gen": 1
+  },
+  {
+    "pkm": "Charizard",
+    "ndex": 6,
+    "tipo": "fuego/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Squirtle",
+    "tipo": "agua",
+    "ndex": 7,
+    "gen": 1
+  },
+  {
+    "pkm": "Wartortle",
+    "ndex": 8,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Blastoise",
+    "ndex": 9,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Caterpie",
+    "ndex": 10,
+    "tipo": "bicho",
+    "gen": 1
+  },
+  {
+    "pkm": "Metapod",
+    "ndex": 11,
+    "tipo": "bicho",
+    "gen": 1
+  },
+  {
+    "pkm": "Butterfree",
+    "ndex": 12,
+    "tipo": "bicho/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Weedle",
+    "ndex": 13,
+    "tipo": "bicho/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Kakuna",
+    "ndex": 14,
+    "tipo": "bicho/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Beedrill",
+    "ndex": 15,
+    "tipo": "bicho/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Pidgey",
+    "ndex": 16,
+    "tipo": "normal/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Pidgeotto",
+    "ndex": 17,
+    "tipo": "normal/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Pidgeot",
+    "ndex": 18,
+    "tipo": "normal/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Rattata",
+    "ndex": 19,
+    "tipo": "normal",
+    "gen": 1
+  },
+  {
+    "pkm": "Raticate",
+    "ndex": 20,
+    "tipo": "normal",
+    "gen": 1
+  },
+  {
+    "pkm": "Spearow",
+    "ndex": 21,
+    "tipo": "normal/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Fearow",
+    "ndex": 22,
+    "tipo": "normal/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Ekans",
+    "ndex": 23,
+    "tipo": "veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Arbok",
+    "ndex": 24,
+    "tipo": "veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Pikachu",
+    "ndex": 25,
+    "tipo": "eléctrico",
+    "gen": 1
+  },
+  {
+    "pkm": "Raichu",
+    "ndex": 26,
+    "tipo": "eléctrico",
+    "gen": 1
+  },
+  {
+    "pkm": "Sandshrew",
+    "ndex": 27,
+    "tipo": "tierra",
+    "gen": 1
+  },
+  {
+    "pkm": "Sandslash",
+    "ndex": 28,
+    "tipo": "tierra",
+    "gen": 1
+  },
+  {
+    "pkm": "Nidoran F",
+    "ndex": 29,
+    "tipo": "veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Nidorina",
+    "ndex": 30,
+    "tipo": "veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Nidoqueen",
+    "ndex": 31,
+    "tipo": "veneno/tierra",
+    "gen": 1
+  },
+  {
+    "pkm": "Nidoran M",
+    "ndex": 32,
+    "tipo": "veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Nidorino",
+    "ndex": 33,
+    "tipo": "veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Nidoking",
+    "ndex": 34,
+    "tipo": "veneno/tierra",
+    "gen": 1
+  },
+  {
+    "pkm": "Clefairy",
+    "ndex": 35,
+    "tipo": "hada",
+    "gen": 1
+  },
+  {
+    "pkm": "Clefable",
+    "ndex": 36,
+    "tipo": "hada",
+    "gen": 1
+  },
+  {
+    "pkm": "vulpix",
+    "ndex": 37,
+    "tipo": "fuego",
+    "gen": 1
+  },
+  {
+    "pkm": "Ninetales",
+    "ndex": 38,
+    "tipo": "fuego",
+    "gen": 1
+  },
+  {
+    "pkm": "Jigglypuff",
+    "ndex": 39,
+    "tipo": "normal/hada",
+    "gen": 1
+  },
+  {
+    "pkm": "Wigglytuff",
+    "ndex": 40,
+    "tipo": "normal/hada",
+    "gen": 1
+  },
+  {
+    "pkm": "Zubat",
+    "ndex": 41,
+    "tipo": "veneno/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Golbat",
+    "ndex": 42,
+    "tipo": "veneno/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Oddish",
+    "ndex": 43,
+    "tipo": "planta/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Gloom",
+    "ndex": 44,
+    "tipo": "planta/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Vileplume",
+    "ndex": 45,
+    "tipo": "planta/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Paras",
+    "ndex": 46,
+    "tipo": "bicho/planta",
+    "gen": 1
+  },
+  {
+    "pkm": "Parasect",
+    "ndex": 47,
+    "tipo": "bicho/planta",
+    "gen": 1
+  },
+  {
+    "pkm": "Venonat",
+    "ndex": 48,
+    "tipo": "bicho/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Venomoth",
+    "ndex": 49,
+    "tipo": "bicho/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Diglett",
+    "ndex": 50,
+    "tipo": "tierra",
+    "gen": 1
+  },
+  {
+    "pkm": "Dugtrio",
+    "ndex": 51,
+    "tipo": "tierra",
+    "gen": 1
+  },
+  {
+    "pkm": "Meowth",
+    "ndex": 52,
+    "tipo": "normal",
+    "gen": 1
+  },
+  {
+    "pkm": "Persian",
+    "ndex": 53,
+    "tipo": "normal",
+    "gen": 1
+  },
+  {
+    "pkm": "Psyduck",
+    "ndex": 54,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Golduck",
+    "ndex": 55,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Mankey",
+    "ndex": 56,
+    "tipo": "lucha",
+    "gen": 1
+  },
+  {
+    "pkm": "Primeape",
+    "ndex": 57,
+    "tipo": "lucha",
+    "gen": 1
+  },
+  {
+    "pkm": "Growlithe",
+    "ndex": 58,
+    "tipo": "fuego",
+    "gen": 1
+  },
+  {
+    "pkm": "Arcanine",
+    "ndex": 59,
+    "tipo": "fuego",
+    "gen": 1
+  },
+  {
+    "pkm": "Poliwag",
+    "ndex": 60,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Poliwhirl",
+    "ndex": 61,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Poliwrath",
+    "ndex": 62,
+    "tipo": "agua/lucha",
+    "gen": 1
+  },
+  {
+    "pkm": "Abra",
+    "ndex": 63,
+    "tipo": "psíquico",
+    "gen": 1
+  },
+  {
+    "pkm": "Kadabra",
+    "ndex": 64,
+    "tipo": "psíquico",
+    "gen": 1
+  },
+  {
+    "pkm": "Alakazam",
+    "ndex": 65,
+    "tipo": "psíquico",
+    "gen": 1
+  },
+  {
+    "pkm": "Machop",
+    "ndex": 66,
+    "tipo": "lucha",
+    "gen": 1
+  },
+  {
+    "pkm": "Machoke",
+    "ndex": 67,
+    "tipo": "lucha",
+    "gen": 1
+  },
+  {
+    "pkm": "Machamp",
+    "ndex": 68,
+    "tipo": "lucha",
+    "gen": 1
+  },
+  {
+    "pkm": "Bellsprout",
+    "ndex": 69,
+    "tipo": "planta/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Weepinbell",
+    "ndex": 70,
+    "tipo": "planta/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Victreebel",
+    "ndex": 71,
+    "tipo": "planta/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Tentacool",
+    "ndex": 72,
+    "tipo": "agua/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Tentacruel",
+    "ndex": 73,
+    "tipo": "agua/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Geodude",
+    "ndex": 74,
+    "tipo": "roca/tierra",
+    "gen": 1
+  },
+  {
+    "pkm": "Graveler",
+    "ndex": 75,
+    "tipo": "roca/tierra",
+    "gen": 1
+  },
+  {
+    "pkm": "Golem",
+    "ndex": 76,
+    "tipo": "roca/tierra",
+    "gen": 1
+  },
+  {
+    "pkm": "Ponyta",
+    "ndex": 77,
+    "tipo": "fuego",
+    "gen": 1
+  },
+  {
+    "pkm": "Rapidash",
+    "ndex": 78,
+    "tipo": "fuego",
+    "gen": 1
+  },
+  {
+    "pkm": "Slowpoke",
+    "ndex": 79,
+    "tipo": "agua/psíquico",
+    "gen": 1
+  },
+  {
+    "pkm": "Slowbro",
+    "ndex": 80,
+    "tipo": "agua/psíquico",
+    "gen": 1
+  },
+  {
+    "pkm": "Magnemite",
+    "ndex": 81,
+    "tipo": "eléctrico/acero",
+    "gen": 1
+  },
+  {
+    "pkm": "Magneton",
+    "ndex": 82,
+    "tipo": "eléctrico/acero",
+    "gen": 1
+  },
+  {
+    "pkm": "Farfetchd",
+    "ndex": 83,
+    "tipo": "normal/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Doduo",
+    "ndex": 84,
+    "tipo": "normal/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Dodrio",
+    "ndex": 85,
+    "tipo": "normal/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Seel",
+    "ndex": 86,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Dewgong",
+    "ndex": 87,
+    "tipo": "agua/hielo",
+    "gen": 1
+  },
+  {
+    "pkm": "Grimer",
+    "ndex": 88,
+    "tipo": "veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Muk",
+    "ndex": 89,
+    "tipo": "veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Shellder",
+    "ndex": 90,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Cloyster",
+    "ndex": 91,
+    "tipo": "agua/hielo",
+    "gen": 1
+  },
+  {
+    "pkm": "Gastly",
+    "ndex": 92,
+    "tipo": "fantasma/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Haunter",
+    "ndex": 93,
+    "tipo": "fantasma/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Gengar",
+    "ndex": 94,
+    "tipo": "fantasma/veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Onix",
+    "ndex": 95,
+    "tipo": "roca/tierra",
+    "gen": 1
+  },
+  {
+    "pkm": "Drowzee",
+    "ndex": 96,
+    "tipo": "psíquico",
+    "gen": 1
+  },
+  {
+    "pkm": "Hypno",
+    "ndex": 97,
+    "tipo": "psíquico",
+    "gen": 1
+  },
+  {
+    "pkm": "Krabby",
+    "ndex": 98,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Kingler",
+    "ndex": 99,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Voltorb",
+    "ndex": 100,
+    "tipo": "eléctrico",
+    "gen": 1
+  },
+  {
+    "pkm": "Electrode",
+    "ndex": 101,
+    "tipo": "eléctrico",
+    "gen": 1
+  },
+  {
+    "pkm": "Exeggcute",
+    "ndex": 102,
+    "tipo": "planta/psíquico",
+    "gen": 1
+  },
+  {
+    "pkm": "Exeggutor",
+    "ndex": 103,
+    "tipo": "planta/psíquico",
+    "gen": 1
+  },
+  {
+    "pkm": "Cubone",
+    "ndex": 104,
+    "tipo": "tierra",
+    "gen": 1
+  },
+  {
+    "pkm": "Marowak",
+    "ndex": 105,
+    "tipo": "tierra",
+    "gen": 1
+  },
+  {
+    "pkm": "Hitmonlee",
+    "ndex": 106,
+    "tipo": "lucha",
+    "gen": 1
+  },
+  {
+    "pkm": "Hitmonchan",
+    "ndex": 107,
+    "tipo": "lucha",
+    "gen": 1
+  },
+  {
+    "pkm": "Lickitung",
+    "ndex": 108,
+    "tipo": "normal",
+    "gen": 1
+  },
+  {
+    "pkm": "Koffing",
+    "ndex": 109,
+    "tipo": "veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Weezing",
+    "ndex": 110,
+    "tipo": "veneno",
+    "gen": 1
+  },
+  {
+    "pkm": "Rhyhorn",
+    "ndex": 111,
+    "tipo": "tierra/roca",
+    "gen": 1
+  },
+  {
+    "pkm": "Rhydon",
+    "ndex": 112,
+    "tipo": "tierra/roca",
+    "gen": 1
+  },
+  {
+    "pkm": "Chansey",
+    "ndex": 113,
+    "tipo": "normal",
+    "gen": 1
+  },
+  {
+    "pkm": "Tangela",
+    "ndex": 114,
+    "tipo": "planta",
+    "gen": 1
+  },
+  {
+    "pkm": "Kangaskhan",
+    "ndex": 115,
+    "tipo": "normal",
+    "gen": 1
+  },
+  {
+    "pkm": "Horsea",
+    "ndex": 116,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Seadra",
+    "ndex": 117,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Goldeen",
+    "ndex": 118,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Seaking",
+    "ndex": 119,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Staryu",
+    "ndex": 120,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Starmie",
+    "ndex": 121,
+    "tipo": "agua/psíquico",
+    "gen": 1
+  },
+  {
+    "pkm": "Mr Mime",
+    "ndex": 122,
+    "tipo": "psíquico/hada",
+    "gen": 1
+  },
+  {
+    "pkm": "Scyther",
+    "ndex": 123,
+    "tipo": "bicho/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Jynx",
+    "ndex": 124,
+    "tipo": "hielo/psíquico",
+    "gen": 1
+  },
+  {
+    "pkm": "Electabuzz",
+    "ndex": 125,
+    "tipo": "eléctrico",
+    "gen": 1
+  },
+  {
+    "pkm": "Magmar",
+    "ndex": 126,
+    "tipo": "fuego",
+    "gen": 1
+  },
+  {
+    "pkm": "Pinsir",
+    "ndex": 127,
+    "tipo": "bicho",
+    "gen": 1
+  },
+  {
+    "pkm": "Tauros",
+    "ndex": 128,
+    "tipo": "normal",
+    "gen": 1
+  },
+  {
+    "pkm": "Magikarp",
+    "ndex": 129,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Gyarados",
+    "ndex": 130,
+    "tipo": "agua/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Lapras",
+    "ndex": 131,
+    "tipo": "agua/hielo",
+    "gen": 1
+  },
+  {
+    "pkm": "Ditto",
+    "ndex": 132,
+    "tipo": "normal",
+    "gen": 1
+  },
+  {
+    "pkm": "Eevee",
+    "ndex": 133,
+    "tipo": "normal",
+    "gen": 1
+  },
+  {
+    "pkm": "Vaporeon",
+    "ndex": 134,
+    "tipo": "agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Jolteon",
+    "ndex": 135,
+    "tipo": "eléctrico",
+    "gen": 1
+  },
+  {
+    "pkm": "Flareon",
+    "ndex": 136,
+    "tipo": "fuego",
+    "gen": 1
+  },
+  {
+    "pkm": "Porygon",
+    "ndex": 137,
+    "tipo": "normal",
+    "gen": 1
+  },
+  {
+    "pkm": "Omanyte",
+    "ndex": 138,
+    "tipo": "roca/agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Omastar",
+    "ndex": 139,
+    "tipo": "roca/agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Kabuto",
+    "ndex": 140,
+    "tipo": "roca/agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Kabutops",
+    "ndex": 141,
+    "tipo": "roca/agua",
+    "gen": 1
+  },
+  {
+    "pkm": "Aerodactyl",
+    "ndex": 142,
+    "tipo": "roca/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Snorlax",
+    "ndex": 143,
+    "tipo": "normal",
+    "gen": 1
+  },
+  {
+    "pkm": "Articuno",
+    "ndex": 144,
+    "tipo": "hielo/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Zapdos",
+    "ndex": 145,
+    "tipo": "eléctrico/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Moltres",
+    "ndex": 146,
+    "tipo": "fuego/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Dratini",
+    "ndex": 147,
+    "tipo": "dragón",
+    "gen": 1
+  },
+  {
+    "pkm": "Dragonair",
+    "ndex": 148,
+    "tipo": "dragón",
+    "gen": 1
+  },
+  {
+    "pkm": "Dragonite",
+    "ndex": 149,
+    "tipo": "dragón/volador",
+    "gen": 1
+  },
+  {
+    "pkm": "Mewtwo",
+    "ndex": 150,
+    "tipo": "psíquico",
+    "gen": 1
+  },
+  {
+    "pkm": "Mew",
+    "ndex": 151,
+    "tipo": "psíquico",
+    "gen": 1
+  },
+  {
+    "pkm": "Chikorita",
+    "ndex": 152,
+    "tipo": "planta",
+    "gen": 2
+  },
+  {
+    "pkm": "Bayleef",
+    "ndex": 153,
+    "tipo": "planta",
+    "gen": 2
+  },
+  {
+    "pkm": "Meganium",
+    "ndex": 154,
+    "tipo": "planta",
+    "gen": 2
+  },
+  {
+    "pkm": "Cyndaquil",
+    "tipo": "fuego",
+    "ndex": 155,
+    "gen": 2
+  },
+  {
+    "pkm": "Quilava",
+    "ndex": 156,
+    "tipo": "fuego",
+    "gen": 2
+  },
+  {
+    "pkm": "Typhlosion",
+    "ndex": 157,
+    "tipo": "fuego",
+    "gen": 2
+  },
+  {
+    "pkm": "Totodile",
+    "tipo": "agua",
+    "ndex": 158,
+    "gen": 2
+  },
+  {
+    "pkm": "Croconaw",
+    "ndex": 159,
+    "tipo": "agua",
+    "gen": 2
+  },
+  {
+    "pkm": "Feraligatr",
+    "ndex": 160,
+    "tipo": "agua",
+    "gen": 2
+  },
+  {
+    "pkm": "Sentret",
+    "ndex": 161,
+    "tipo": "normal",
+    "gen": 2
+  },
+  {
+    "pkm": "Furret",
+    "ndex": 162,
+    "tipo": "normal",
+    "gen": 2
+  },
+  {
+    "pkm": "Hoothoot",
+    "ndex": 163,
+    "tipo": "normal/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Noctowl",
+    "ndex": 164,
+    "tipo": "normal/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Ledyba",
+    "ndex": 165,
+    "tipo": "bicho/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Ledian",
+    "ndex": 166,
+    "tipo": "bicho/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Spinarak",
+    "ndex": 167,
+    "tipo": "bicho/veneno",
+    "gen": 2
+  },
+  {
+    "pkm": "Ariados",
+    "ndex": 168,
+    "tipo": "bicho/veneno",
+    "gen": 2
+  },
+  {
+    "pkm": "Crobat",
+    "ndex": 169,
+    "tipo": "veneno/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Chinchou",
+    "ndex": 170,
+    "tipo": "agua/eléctrico",
+    "gen": 2
+  },
+  {
+    "pkm": "Lanturn",
+    "ndex": 171,
+    "tipo": "agua/eléctrico",
+    "gen": 2
+  },
+  {
+    "pkm": "Pichu",
+    "ndex": 172,
+    "tipo": "eléctrico",
+    "gen": 2
+  },
+  {
+    "pkm": "Cleffa",
+    "ndex": 173,
+    "tipo": "hada",
+    "gen": 2
+  },
+  {
+    "pkm": "Igglybuff",
+    "ndex": 174,
+    "tipo": "normal/hada",
+    "gen": 2
+  },
+  {
+    "pkm": "Togepi",
+    "ndex": 175,
+    "tipo": "hada",
+    "gen": 2
+  },
+  {
+    "pkm": "Togetic",
+    "ndex": 176,
+    "tipo": "hada/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Natu",
+    "ndex": 177,
+    "tipo": "psíquico/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Xatu",
+    "ndex": 178,
+    "tipo": "psíquico/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Mareep",
+    "ndex": 179,
+    "tipo": "eléctrico",
+    "gen": 2
+  },
+  {
+    "pkm": "Flaaffy",
+    "ndex": 180,
+    "tipo": "eléctrico",
+    "gen": 2
+  },
+  {
+    "pkm": "Ampharos",
+    "ndex": 181,
+    "tipo": "eléctrico",
+    "gen": 2
+  },
+  {
+    "pkm": "Bellossom",
+    "ndex": 182,
+    "tipo": "planta",
+    "gen": 2
+  },
+  {
+    "pkm": "Marill",
+    "ndex": 183,
+    "tipo": "agua/hada",
+    "gen": 2
+  },
+  {
+    "pkm": "Azumarill",
+    "ndex": 184,
+    "tipo": "agua/hada",
+    "gen": 2
+  },
+  {
+    "pkm": "Sudowoodo",
+    "ndex": 185,
+    "tipo": "roca",
+    "gen": 2
+  },
+  {
+    "pkm": "Politoed",
+    "ndex": 186,
+    "tipo": "agua",
+    "gen": 2
+  },
+  {
+    "pkm": "Hoppip",
+    "ndex": 187,
+    "tipo": "planta/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Skiploom",
+    "ndex": 188,
+    "tipo": "planta/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Jumpluff",
+    "ndex": 189,
+    "tipo": "planta/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Aipom",
+    "ndex": 190,
+    "tipo": "normal",
+    "gen": 2
+  },
+  {
+    "pkm": "Sunkern",
+    "ndex": 191,
+    "tipo": "planta",
+    "gen": 2
+  },
+  {
+    "pkm": "Sunflora",
+    "ndex": 192,
+    "tipo": "planta",
+    "gen": 2
+  },
+  {
+    "pkm": "Yanma",
+    "ndex": 193,
+    "tipo": "bicho/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Wooper",
+    "ndex": 194,
+    "tipo": "agua/tierra",
+    "gen": 2
+  },
+  {
+    "pkm": "Quagsire",
+    "ndex": 195,
+    "tipo": "agua/tierra",
+    "gen": 2
+  },
+  {
+    "pkm": "Espeon",
+    "ndex": 196,
+    "tipo": "psíquico",
+    "gen": 2
+  },
+  {
+    "pkm": "Umbreon",
+    "ndex": 197,
+    "tipo": "siniestro",
+    "gen": 2
+  },
+  {
+    "pkm": "Murkrow",
+    "ndex": 198,
+    "tipo": "siniestro/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Slowking",
+    "ndex": 199,
+    "tipo": "agua/psíquico",
+    "gen": 2
+  },
+  {
+    "pkm": "Misdreavus",
+    "ndex": 200,
+    "tipo": "fantasma",
+    "gen": 2
+  },
+  {
+    "pkm": "Unown",
+    "ndex": 201,
+    "tipo": "psíquico",
+    "gen": 2
+  },
+  {
+    "pkm": "Wobbuffet",
+    "ndex": 202,
+    "tipo": "psíquico",
+    "gen": 2
+  },
+  {
+    "pkm": "Girafarig",
+    "ndex": 203,
+    "tipo": "normal/psíquico",
+    "gen": 2
+  },
+  {
+    "pkm": "Pineco",
+    "ndex": 204,
+    "tipo": "bicho",
+    "gen": 2
+  },
+  {
+    "pkm": "Forretress",
+    "ndex": 205,
+    "tipo": "bicho/acero",
+    "gen": 2
+  },
+  {
+    "pkm": "Dunsparce",
+    "ndex": 206,
+    "tipo": "normal",
+    "gen": 2
+  },
+  {
+    "pkm": "Gligar",
+    "ndex": 207,
+    "tipo": "tierra/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Steelix",
+    "ndex": 208,
+    "tipo": "acero/tierra",
+    "gen": 2
+  },
+  {
+    "pkm": "Snubbull",
+    "ndex": 209,
+    "tipo": "hada",
+    "gen": 2
+  },
+  {
+    "pkm": "Granbull",
+    "ndex": 210,
+    "tipo": "hada",
+    "gen": 2
+  },
+  {
+    "pkm": "Qwilfish",
+    "ndex": 211,
+    "tipo": "agua/veneno",
+    "gen": 2
+  },
+  {
+    "pkm": "Scizor",
+    "ndex": 212,
+    "tipo": "bicho/acero",
+    "gen": 2
+  },
+  {
+    "pkm": "Shuckle",
+    "ndex": 213,
+    "tipo": "bicho/roca",
+    "gen": 2
+  },
+  {
+    "pkm": "Heracross",
+    "ndex": 214,
+    "tipo": "bicho/lucha",
+    "gen": 2
+  },
+  {
+    "pkm": "Sneasel",
+    "ndex": 215,
+    "tipo": "siniestro/hielo",
+    "gen": 2
+  },
+  {
+    "pkm": "Teddiursa",
+    "ndex": 216,
+    "tipo": "normal",
+    "gen": 2
+  },
+  {
+    "pkm": "Ursaring",
+    "ndex": 217,
+    "tipo": "normal",
+    "gen": 2
+  },
+  {
+    "pkm": "Slugma",
+    "ndex": 218,
+    "tipo": "fuego",
+    "gen": 2
+  },
+  {
+    "pkm": "Magcargo",
+    "ndex": 219,
+    "tipo": "fuego/roca",
+    "gen": 2
+  },
+  {
+    "pkm": "Swinub",
+    "ndex": 220,
+    "tipo": "hielo/tierra",
+    "gen": 2
+  },
+  {
+    "pkm": "Piloswine",
+    "ndex": 221,
+    "tipo": "hielo/tierra",
+    "gen": 2
+  },
+  {
+    "pkm": "Corsola",
+    "ndex": 222,
+    "tipo": "agua/roca",
+    "gen": 2
+  },
+  {
+    "pkm": "Remoraid",
+    "ndex": 223,
+    "tipo": "agua",
+    "gen": 2
+  },
+  {
+    "pkm": "Octillery",
+    "ndex": 224,
+    "tipo": "agua",
+    "gen": 2
+  },
+  {
+    "pkm": "Delibird",
+    "ndex": 225,
+    "tipo": "hielo/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Mantine",
+    "ndex": 226,
+    "tipo": "agua/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Skarmory",
+    "ndex": 227,
+    "tipo": "acero/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Houndour",
+    "ndex": 228,
+    "tipo": "siniestro/fuego",
+    "gen": 2
+  },
+  {
+    "pkm": "Houndoom",
+    "ndex": 229,
+    "tipo": "siniestro/fuego",
+    "gen": 2
+  },
+  {
+    "pkm": "Kingdra",
+    "ndex": 230,
+    "tipo": "agua/dragón",
+    "gen": 2
+  },
+  {
+    "pkm": "Phanpy",
+    "ndex": 231,
+    "tipo": "tierra",
+    "gen": 2
+  },
+  {
+    "pkm": "Donphan",
+    "ndex": 232,
+    "tipo": "tierra",
+    "gen": 2
+  },
+  {
+    "pkm": "Porygon2",
+    "ndex": 233,
+    "tipo": "normal",
+    "gen": 2
+  },
+  {
+    "pkm": "Stantler",
+    "ndex": 234,
+    "tipo": "normal",
+    "gen": 2
+  },
+  {
+    "pkm": "Smeargle",
+    "ndex": 235,
+    "tipo": "normal",
+    "gen": 2
+  },
+  {
+    "pkm": "Tyrogue",
+    "ndex": 236,
+    "tipo": "lucha",
+    "gen": 2
+  },
+  {
+    "pkm": "Hitmontop",
+    "ndex": 237,
+    "tipo": "lucha",
+    "gen": 2
+  },
+  {
+    "pkm": "Smoochum",
+    "ndex": 238,
+    "tipo": "hielo/psíquico",
+    "gen": 2
+  },
+  {
+    "pkm": "Elekid",
+    "ndex": 239,
+    "tipo": "eléctrico",
+    "gen": 2
+  },
+  {
+    "pkm": "Magby",
+    "ndex": 240,
+    "tipo": "fuego",
+    "gen": 2
+  },
+  {
+    "pkm": "Miltank",
+    "ndex": 241,
+    "tipo": "normal",
+    "gen": 2
+  },
+  {
+    "pkm": "Blissey",
+    "ndex": 242,
+    "tipo": "normal",
+    "gen": 2
+  },
+  {
+    "pkm": "Raikou",
+    "ndex": 243,
+    "tipo": "eléctrico",
+    "gen": 2
+  },
+  {
+    "pkm": "Entei",
+    "ndex": 244,
+    "tipo": "fuego",
+    "gen": 2
+  },
+  {
+    "pkm": "Suicune",
+    "ndex": 245,
+    "tipo": "agua",
+    "gen": 2
+  },
+  {
+    "pkm": "Larvitar",
+    "ndex": 246,
+    "tipo": "roca/tierra",
+    "gen": 2
+  },
+  {
+    "pkm": "Pupitar",
+    "ndex": 247,
+    "tipo": "roca/tierra",
+    "gen": 2
+  },
+  {
+    "pkm": "Tyranitar",
+    "ndex": 248,
+    "tipo": "roca/siniestro",
+    "gen": 2
+  },
+  {
+    "pkm": "Lugia",
+    "ndex": 249,
+    "tipo": "psíquico/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Ho Oh",
+    "ndex": 250,
+    "tipo": "fuego/volador",
+    "gen": 2
+  },
+  {
+    "pkm": "Celebi",
+    "ndex": 251,
+    "tipo": "psíquico/planta",
+    "gen": 2
+  },
+  {
+    "pkm": "Treecko",
+    "ndex": 252,
+    "tipo": "planta",
+    "gen": 3
+  },
+  {
+    "pkm": "Grovyle",
+    "ndex": 253,
+    "tipo": "planta",
+    "gen": 3
+  },
+  {
+    "pkm": "Sceptile",
+    "ndex": 254,
+    "tipo": "planta",
+    "gen": 3
+  },
+  {
+    "pkm": "Torchic",
+    "tipo": "fuego",
+    "ndex": 255,
+    "gen": 3
+  },
+  {
+    "pkm": "Combusken",
+    "ndex": 256,
+    "tipo": "fuego/lucha",
+    "gen": 3
+  },
+  {
+    "pkm": "Blaziken",
+    "ndex": 257,
+    "tipo": "fuego/lucha",
+    "gen": 3
+  },
+  {
+    "pkm": "Mudkip",
+    "tipo": "agua",
+    "ndex": 258,
+    "gen": 3
+  },
+  {
+    "pkm": "Marshtomp",
+    "ndex": 259,
+    "tipo": "agua/tierra",
+    "gen": 3
+  },
+  {
+    "pkm": "Swampert",
+    "ndex": 260,
+    "tipo": "agua/tierra",
+    "gen": 3
+  },
+  {
+    "pkm": "Poochyena",
+    "ndex": 261,
+    "tipo": "siniestro",
+    "gen": 3
+  },
+  {
+    "pkm": "Mightyena",
+    "ndex": 262,
+    "tipo": "siniestro",
+    "gen": 3
+  },
+  {
+    "pkm": "Zigzagoon",
+    "ndex": 263,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Linoone",
+    "ndex": 264,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Wurmple",
+    "ndex": 265,
+    "tipo": "bicho",
+    "gen": 3
+  },
+  {
+    "pkm": "Silcoon",
+    "ndex": 266,
+    "tipo": "bicho",
+    "gen": 3
+  },
+  {
+    "pkm": "Beautifly",
+    "ndex": 267,
+    "tipo": "bicho/volador",
+    "gen": 3
+  },
+  {
+    "pkm": "Cascoon",
+    "ndex": 268,
+    "tipo": "bicho",
+    "gen": 3
+  },
+  {
+    "pkm": "Dustox",
+    "ndex": 269,
+    "tipo": "bicho/veneno",
+    "gen": 3
+  },
+  {
+    "pkm": "Lotad",
+    "ndex": 270,
+    "tipo": "agua/planta",
+    "gen": 3
+  },
+  {
+    "pkm": "Lombre",
+    "ndex": 271,
+    "tipo": "agua/planta",
+    "gen": 3
+  },
+  {
+    "pkm": "Ludicolo",
+    "ndex": 272,
+    "tipo": "agua/planta",
+    "gen": 3
+  },
+  {
+    "pkm": "Seedot",
+    "ndex": 273,
+    "tipo": "planta",
+    "gen": 3
+  },
+  {
+    "pkm": "Nuzleaf",
+    "ndex": 274,
+    "tipo": "planta/siniestro",
+    "gen": 3
+  },
+  {
+    "pkm": "Shiftry",
+    "ndex": 275,
+    "tipo": "planta/siniestro",
+    "gen": 3
+  },
+  {
+    "pkm": "Taillow",
+    "ndex": 276,
+    "tipo": "normal/volador",
+    "gen": 3
+  },
+  {
+    "pkm": "Swellow",
+    "ndex": 277,
+    "tipo": "normal/volador",
+    "gen": 3
+  },
+  {
+    "pkm": "Wingull",
+    "ndex": 278,
+    "tipo": "agua/volador",
+    "gen": 3
+  },
+  {
+    "pkm": "Pelipper",
+    "ndex": 279,
+    "tipo": "agua/volador",
+    "gen": 3
+  },
+  {
+    "pkm": "Ralts",
+    "ndex": 280,
+    "tipo": "psíquico/hada",
+    "gen": 3
+  },
+  {
+    "pkm": "Kirlia",
+    "ndex": 281,
+    "tipo": "psíquico/hada",
+    "gen": 3
+  },
+  {
+    "pkm": "Gardevoir",
+    "ndex": 282,
+    "tipo": "psíquico/hada",
+    "gen": 3
+  },
+  {
+    "pkm": "Surskit",
+    "ndex": 283,
+    "tipo": "bicho/agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Masquerain",
+    "ndex": 284,
+    "tipo": "bicho/volador",
+    "gen": 3
+  },
+  {
+    "pkm": "Shroomish",
+    "ndex": 285,
+    "tipo": "planta",
+    "gen": 3
+  },
+  {
+    "pkm": "Breloom",
+    "ndex": 286,
+    "tipo": "planta/lucha",
+    "gen": 3
+  },
+  {
+    "pkm": "Slakoth",
+    "ndex": 287,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Vigoroth",
+    "ndex": 288,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Slaking",
+    "ndex": 289,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Nincada",
+    "ndex": 290,
+    "tipo": "bicho/tierra",
+    "gen": 3
+  },
+  {
+    "pkm": "Ninjask",
+    "ndex": 291,
+    "tipo": "bicho/volador",
+    "gen": 3
+  },
+  {
+    "pkm": "Shedinja",
+    "ndex": 292,
+    "tipo": "bicho/fantasma",
+    "gen": 3
+  },
+  {
+    "pkm": "Whismur",
+    "ndex": 293,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Loudred",
+    "ndex": 294,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Exploud",
+    "ndex": 295,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Makuhita",
+    "ndex": 296,
+    "tipo": "lucha",
+    "gen": 3
+  },
+  {
+    "pkm": "Hariyama",
+    "ndex": 297,
+    "tipo": "lucha",
+    "gen": 3
+  },
+  {
+    "pkm": "Azurill",
+    "ndex": 298,
+    "tipo": "normal/hada",
+    "gen": 3
+  },
+  {
+    "pkm": "Nosepass",
+    "ndex": 299,
+    "tipo": "roca",
+    "gen": 3
+  },
+  {
+    "pkm": "Skitty",
+    "ndex": 300,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Delcatty",
+    "ndex": 301,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Sableye",
+    "ndex": 302,
+    "tipo": "siniestro/fantasma",
+    "gen": 3
+  },
+  {
+    "pkm": "Mawile",
+    "ndex": 303,
+    "tipo": "acero/hada",
+    "gen": 3
+  },
+  {
+    "pkm": "Aron",
+    "ndex": 304,
+    "tipo": "acero/roca",
+    "gen": 3
+  },
+  {
+    "pkm": "Lairon",
+    "ndex": 305,
+    "tipo": "acero/roca",
+    "gen": 3
+  },
+  {
+    "pkm": "Aggron",
+    "ndex": 306,
+    "tipo": "acero/roca",
+    "gen": 3
+  },
+  {
+    "pkm": "Meditite",
+    "ndex": 307,
+    "tipo": "lucha/psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Medicham",
+    "ndex": 308,
+    "tipo": "lucha/psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Electrike",
+    "ndex": 309,
+    "tipo": "eléctrico",
+    "gen": 3
+  },
+  {
+    "pkm": "Manectric",
+    "ndex": 310,
+    "tipo": "eléctrico",
+    "gen": 3
+  },
+  {
+    "pkm": "Plusle",
+    "ndex": 311,
+    "tipo": "eléctrico",
+    "gen": 3
+  },
+  {
+    "pkm": "Minun",
+    "ndex": 312,
+    "tipo": "eléctrico",
+    "gen": 3
+  },
+  {
+    "pkm": "Volbeat",
+    "ndex": 313,
+    "tipo": "bicho",
+    "gen": 3
+  },
+  {
+    "pkm": "Illumise",
+    "ndex": 314,
+    "tipo": "bicho",
+    "gen": 3
+  },
+  {
+    "pkm": "Roselia",
+    "ndex": 315,
+    "tipo": "planta/veneno",
+    "gen": 3
+  },
+  {
+    "pkm": "Gulpin",
+    "ndex": 316,
+    "tipo": "veneno",
+    "gen": 3
+  },
+  {
+    "pkm": "Swalot",
+    "ndex": 317,
+    "tipo": "veneno",
+    "gen": 3
+  },
+  {
+    "pkm": "Carvanha",
+    "ndex": 318,
+    "tipo": "agua/siniestro",
+    "gen": 3
+  },
+  {
+    "pkm": "Sharpedo",
+    "ndex": 319,
+    "tipo": "agua/siniestro",
+    "gen": 3
+  },
+  {
+    "pkm": "Wailmer",
+    "ndex": 320,
+    "tipo": "agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Wailord",
+    "ndex": 321,
+    "tipo": "agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Numel",
+    "ndex": 322,
+    "tipo": "fuego/tierra",
+    "gen": 3
+  },
+  {
+    "pkm": "Camerupt",
+    "ndex": 323,
+    "tipo": "fuego/tierra",
+    "gen": 3
+  },
+  {
+    "pkm": "Torkoal",
+    "ndex": 324,
+    "tipo": "fuego",
+    "gen": 3
+  },
+  {
+    "pkm": "Spoink",
+    "ndex": 325,
+    "tipo": "psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Grumpig",
+    "ndex": 326,
+    "tipo": "psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Spinda",
+    "ndex": 327,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Trapinch",
+    "ndex": 328,
+    "tipo": "tierra",
+    "gen": 3
+  },
+  {
+    "pkm": "Vibrava",
+    "ndex": 329,
+    "tipo": "tierra/dragón",
+    "gen": 3
+  },
+  {
+    "pkm": "Flygon",
+    "ndex": 330,
+    "tipo": "tierra/dragón",
+    "gen": 3
+  },
+  {
+    "pkm": "Cacnea",
+    "ndex": 331,
+    "tipo": "planta",
+    "gen": 3
+  },
+  {
+    "pkm": "Cacturne",
+    "ndex": 332,
+    "tipo": "planta/siniestro",
+    "gen": 3
+  },
+  {
+    "pkm": "Swablu",
+    "ndex": 333,
+    "tipo": "normal/volador",
+    "gen": 3
+  },
+  {
+    "pkm": "Altaria",
+    "ndex": 334,
+    "tipo": "dragón/volador",
+    "gen": 3
+  },
+  {
+    "pkm": "Zangoose",
+    "ndex": 335,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Seviper",
+    "ndex": 336,
+    "tipo": "veneno",
+    "gen": 3
+  },
+  {
+    "pkm": "Lunatone",
+    "ndex": 337,
+    "tipo": "roca/psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Solrock",
+    "ndex": 338,
+    "tipo": "roca/psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Barboach",
+    "ndex": 339,
+    "tipo": "agua/tierra",
+    "gen": 3
+  },
+  {
+    "pkm": "Whiscash",
+    "ndex": 340,
+    "tipo": "agua/tierra",
+    "gen": 3
+  },
+  {
+    "pkm": "Corphish",
+    "ndex": 341,
+    "tipo": "agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Crawdaunt",
+    "ndex": 342,
+    "tipo": "agua/siniestro",
+    "gen": 3
+  },
+  {
+    "pkm": "Baltoy",
+    "ndex": 343,
+    "tipo": "tierra/psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Claydol",
+    "ndex": 344,
+    "tipo": "tierra/psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Lileep",
+    "ndex": 345,
+    "tipo": "roca/planta",
+    "gen": 3
+  },
+  {
+    "pkm": "Cradily",
+    "ndex": 346,
+    "tipo": "roca/planta",
+    "gen": 3
+  },
+  {
+    "pkm": "Anorith",
+    "ndex": 347,
+    "tipo": "roca/bicho",
+    "gen": 3
+  },
+  {
+    "pkm": "Armaldo",
+    "ndex": 348,
+    "tipo": "roca/bicho",
+    "gen": 3
+  },
+  {
+    "pkm": "Feebas",
+    "ndex": 349,
+    "tipo": "agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Milotic",
+    "ndex": 350,
+    "tipo": "agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Castform",
+    "ndex": 351,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Kecleon",
+    "ndex": 352,
+    "tipo": "normal",
+    "gen": 3
+  },
+  {
+    "pkm": "Shuppet",
+    "ndex": 353,
+    "tipo": "fantasma",
+    "gen": 3
+  },
+  {
+    "pkm": "Banette",
+    "ndex": 354,
+    "tipo": "fantasma",
+    "gen": 3
+  },
+  {
+    "pkm": "Duskull",
+    "ndex": 355,
+    "tipo": "fantasma",
+    "gen": 3
+  },
+  {
+    "pkm": "Dusclops",
+    "ndex": 356,
+    "tipo": "fantasma",
+    "gen": 3
+  },
+  {
+    "pkm": "Tropius",
+    "ndex": 357,
+    "tipo": "planta/volador",
+    "gen": 3
+  },
+  {
+    "pkm": "Chimecho",
+    "ndex": 358,
+    "tipo": "psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Absol",
+    "ndex": 359,
+    "tipo": "siniestro",
+    "gen": 3
+  },
+  {
+    "pkm": "Wynaut",
+    "ndex": 360,
+    "tipo": "psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Snorunt",
+    "ndex": 361,
+    "tipo": "hielo",
+    "gen": 3
+  },
+  {
+    "pkm": "Glalie",
+    "ndex": 362,
+    "tipo": "hielo",
+    "gen": 3
+  },
+  {
+    "pkm": "Spheal",
+    "ndex": 363,
+    "tipo": "hielo/agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Sealeo",
+    "ndex": 364,
+    "tipo": "hielo/agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Walrein",
+    "ndex": 365,
+    "tipo": "hielo/agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Clamperl",
+    "ndex": 366,
+    "tipo": "agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Huntail",
+    "ndex": 367,
+    "tipo": "agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Gorebyss",
+    "ndex": 368,
+    "tipo": "agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Relicanth",
+    "ndex": 369,
+    "tipo": "agua/roca",
+    "gen": 3
+  },
+  {
+    "pkm": "Luvdisc",
+    "ndex": 370,
+    "tipo": "agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Bagon",
+    "ndex": 371,
+    "tipo": "dragón",
+    "gen": 3
+  },
+  {
+    "pkm": "Shelgon",
+    "ndex": 372,
+    "tipo": "dragón",
+    "gen": 3
+  },
+  {
+    "pkm": "Salamence",
+    "ndex": 373,
+    "tipo": "dragón/volador",
+    "gen": 3
+  },
+  {
+    "pkm": "Beldum",
+    "ndex": 374,
+    "tipo": "acero/psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Metang",
+    "ndex": 375,
+    "tipo": "acero/psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Metagross",
+    "ndex": 376,
+    "tipo": "acero/psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Regirock",
+    "ndex": 377,
+    "tipo": "roca",
+    "gen": 3
+  },
+  {
+    "pkm": "Regice",
+    "ndex": 378,
+    "tipo": "hielo",
+    "gen": 3
+  },
+  {
+    "pkm": "Registeel",
+    "ndex": 379,
+    "tipo": "acero",
+    "gen": 3
+  },
+  {
+    "pkm": "Latias",
+    "ndex": 380,
+    "tipo": "dragón/psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Latios",
+    "ndex": 381,
+    "tipo": "dragón/psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Kyogre",
+    "ndex": 382,
+    "tipo": "agua",
+    "gen": 3
+  },
+  {
+    "pkm": "Groudon",
+    "ndex": 383,
+    "tipo": "tierra",
+    "gen": 3
+  },
+  {
+    "pkm": "Rayquaza",
+    "ndex": 384,
+    "tipo": "dragón/volador",
+    "gen": 3
+  },
+  {
+    "pkm": "Jirachi",
+    "ndex": 385,
+    "tipo": "acero/psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Deoxys-Normal",
+    "ndex": 386,
+    "tipo": "psíquico",
+    "gen": 3
+  },
+  {
+    "pkm": "Turtwig",
+    "tipo": "planta",
+    "ndex": 387,
+    "gen": 4
+  },
+  {
+    "pkm": "Trotle",
+    "ndex": 388,
+    "tipo": "planta",
+    "gen": 4
+  },
+  {
+    "pkm": "Torterra",
+    "ndex": 389,
+    "tipo": "planta/tierra",
+    "gen": 4
+  },
+  {
+    "pkm": "Chimchar",
+    "tipo": "fuego",
+    "ndex": 390,
+    "gen": 4
+  },
+  {
+    "pkm": "Monferno",
+    "ndex": 391,
+    "tipo": "fuego/lucha",
+    "gen": 4
+  },
+  {
+    "pkm": "Infernape",
+    "ndex": 392,
+    "tipo": "fuego/lucha",
+    "gen": 4
+  },
+  {
+    "pkm": "Piplup",
+    "tipo": "agua",
+    "ndex": 393,
+    "gen": 4
+  },
+  {
+    "pkm": "Prinplup",
+    "ndex": 394,
+    "tipo": "agua",
+    "gen": 4
+  },
+  {
+    "pkm": "Empoleon",
+    "ndex": 395,
+    "tipo": "agua/acero",
+    "gen": 4
+  },
+  {
+    "pkm": "Starly",
+    "ndex": 396,
+    "tipo": "normal/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Staravia",
+    "ndex": 397,
+    "tipo": "normal/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Staraptor",
+    "ndex": 398,
+    "tipo": "normal/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Bidoof",
+    "ndex": 399,
+    "tipo": "normal",
+    "gen": 4
+  },
+  {
+    "pkm": "Bibarel",
+    "ndex": 400,
+    "tipo": "normal/agua",
+    "gen": 4
+  },
+  {
+    "pkm": "Kricketot",
+    "ndex": 401,
+    "tipo": "bicho",
+    "gen": 4
+  },
+  {
+    "pkm": "Kricketune",
+    "ndex": 402,
+    "tipo": "bicho",
+    "gen": 4
+  },
+  {
+    "pkm": "Shinx",
+    "ndex": 403,
+    "tipo": "eléctrico",
+    "gen": 4
+  },
+  {
+    "pkm": "Luxio",
+    "ndex": 404,
+    "tipo": "eléctrico",
+    "gen": 4
+  },
+  {
+    "pkm": "Luxray",
+    "ndex": 405,
+    "tipo": "eléctrico",
+    "gen": 4
+  },
+  {
+    "pkm": "Budew",
+    "ndex": 406,
+    "tipo": "planta/veneno",
+    "gen": 4
+  },
+  {
+    "pkm": "Roserade",
+    "ndex": 407,
+    "tipo": "planta/veneno",
+    "gen": 4
+  },
+  {
+    "pkm": "Cranidos",
+    "ndex": 408,
+    "tipo": "roca",
+    "gen": 4
+  },
+  {
+    "pkm": "Rampardos",
+    "ndex": 409,
+    "tipo": "roca",
+    "gen": 4
+  },
+  {
+    "pkm": "Shieldon",
+    "ndex": 410,
+    "tipo": "roca/acero",
+    "gen": 4
+  },
+  {
+    "pkm": "Bastiodon",
+    "ndex": 411,
+    "tipo": "roca/acero",
+    "gen": 4
+  },
+  {
+    "pkm": "Burmy",
+    "ndex": 412,
+    "tipo": "bicho",
+    "gen": 4
+  },
+  {
+    "pkm": "Wormadam Plant",
+    "ndex": 413,
+    "tipo": "bicho/planta",
+    "gen": 4
+  },
+  {
+    "pkm": "Mothim",
+    "ndex": 414,
+    "tipo": "bicho/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Combee",
+    "ndex": 415,
+    "tipo": "bicho/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Vespiquen",
+    "ndex": 416,
+    "tipo": "bicho/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Pachirisu",
+    "ndex": 417,
+    "tipo": "eléctrico",
+    "gen": 4
+  },
+  {
+    "pkm": "Buizel",
+    "ndex": 418,
+    "tipo": "agua",
+    "gen": 4
+  },
+  {
+    "pkm": "Floatzel",
+    "ndex": 419,
+    "tipo": "agua",
+    "gen": 4
+  },
+  {
+    "pkm": "Cherubi",
+    "ndex": 420,
+    "tipo": "planta",
+    "gen": 4
+  },
+  {
+    "pkm": "Cherrim",
+    "ndex": 421,
+    "tipo": "planta",
+    "gen": 4
+  },
+  {
+    "pkm": "Shellos",
+    "ndex": 422,
+    "tipo": "agua",
+    "gen": 4
+  },
+  {
+    "pkm": "Gastrodon",
+    "ndex": 423,
+    "tipo": "agua/tierra",
+    "gen": 4
+  },
+  {
+    "pkm": "Ambipom",
+    "ndex": 424,
+    "tipo": "normal",
+    "gen": 4
+  },
+  {
+    "pkm": "Drifloon",
+    "ndex": 425,
+    "tipo": "fantasma/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Drifblim",
+    "ndex": 426,
+    "tipo": "fantasma/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Buneary",
+    "ndex": 427,
+    "tipo": "normal",
+    "gen": 4
+  },
+  {
+    "pkm": "Lopunny",
+    "ndex": 428,
+    "tipo": "normal",
+    "gen": 4
+  },
+  {
+    "pkm": "Mismagius",
+    "ndex": 429,
+    "tipo": "fantasma",
+    "gen": 4
+  },
+  {
+    "pkm": "Honchkrow",
+    "ndex": 430,
+    "tipo": "siniestro/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Glameow",
+    "ndex": 431,
+    "tipo": "normal",
+    "gen": 4
+  },
+  {
+    "pkm": "Purugly",
+    "ndex": 432,
+    "tipo": "normal",
+    "gen": 4
+  },
+  {
+    "pkm": "Chingling",
+    "ndex": 433,
+    "tipo": "psíquico",
+    "gen": 4
+  },
+  {
+    "pkm": "Stunky",
+    "ndex": 434,
+    "tipo": "veneno/siniestro",
+    "gen": 4
+  },
+  {
+    "pkm": "Skuntank",
+    "ndex": 435,
+    "tipo": "veneno/siniestro",
+    "gen": 4
+  },
+  {
+    "pkm": "Bronzor",
+    "ndex": 436,
+    "tipo": "acero/psíquico",
+    "gen": 4
+  },
+  {
+    "pkm": "Bronzong",
+    "ndex": 437,
+    "tipo": "acero/psíquico",
+    "gen": 4
+  },
+  {
+    "pkm": "Bonsly",
+    "ndex": 438,
+    "tipo": "roca",
+    "gen": 4
+  },
+  {
+    "pkm": "Mime Jr",
+    "ndex": 439,
+    "tipo": "psíquico/hada",
+    "gen": 4
+  },
+  {
+    "pkm": "Happiny",
+    "ndex": 440,
+    "tipo": "normal",
+    "gen": 4
+  },
+  {
+    "pkm": "Chatot",
+    "ndex": 441,
+    "tipo": "normal/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Spiritomb",
+    "ndex": 442,
+    "tipo": "fantasma/siniestro",
+    "gen": 4
+  },
+  {
+    "pkm": "Gible",
+    "ndex": 443,
+    "tipo": "dragón/tierra",
+    "gen": 4
+  },
+  {
+    "pkm": "Gabite",
+    "ndex": 444,
+    "tipo": "dragón/tierra",
+    "gen": 4
+  },
+  {
+    "pkm": "Garchomp",
+    "ndex": 445,
+    "tipo": "dragón/tierra",
+    "gen": 4
+  },
+  {
+    "pkm": "Munchlax",
+    "ndex": 446,
+    "tipo": "normal",
+    "gen": 4
+  },
+  {
+    "pkm": "Riolu",
+    "ndex": 447,
+    "tipo": "lucha",
+    "gen": 4
+  },
+  {
+    "pkm": "Lucario",
+    "ndex": 448,
+    "tipo": "lucha/acero",
+    "gen": 4
+  },
+  {
+    "pkm": "Hippopotas",
+    "ndex": 449,
+    "tipo": "tierra",
+    "gen": 4
+  },
+  {
+    "pkm": "Hippowdon",
+    "ndex": 450,
+    "tipo": "tierra",
+    "gen": 4
+  },
+  {
+    "pkm": "Skorupi",
+    "ndex": 451,
+    "tipo": "veneno/bicho",
+    "gen": 4
+  },
+  {
+    "pkm": "Drapion",
+    "ndex": 452,
+    "tipo": "veneno/siniestro",
+    "gen": 4
+  },
+  {
+    "pkm": "Croagunk",
+    "ndex": 453,
+    "tipo": "veneno/lucha",
+    "gen": 4
+  },
+  {
+    "pkm": "Toxicroak",
+    "ndex": 454,
+    "tipo": "veneno/lucha",
+    "gen": 4
+  },
+  {
+    "pkm": "Carnivine",
+    "ndex": 455,
+    "tipo": "planta",
+    "gen": 4
+  },
+  {
+    "pkm": "Finneon",
+    "ndex": 456,
+    "tipo": "agua",
+    "gen": 4
+  },
+  {
+    "pkm": "Lumineon",
+    "ndex": 457,
+    "tipo": "agua",
+    "gen": 4
+  },
+  {
+    "pkm": "Mantyke",
+    "ndex": 458,
+    "tipo": "agua/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Snover",
+    "ndex": 459,
+    "tipo": "planta/hielo",
+    "gen": 4
+  },
+  {
+    "pkm": "Abomasnow",
+    "ndex": 460,
+    "tipo": "planta/hielo",
+    "gen": 4
+  },
+  {
+    "pkm": "Weavile",
+    "ndex": 461,
+    "tipo": "siniestro/hielo",
+    "gen": 4
+  },
+  {
+    "pkm": "Magnezone",
+    "ndex": 462,
+    "tipo": "eléctrico/acero",
+    "gen": 4
+  },
+  {
+    "pkm": "Lickilicky",
+    "ndex": 463,
+    "tipo": "normal",
+    "gen": 4
+  },
+  {
+    "pkm": "Rhyperior",
+    "ndex": 464,
+    "tipo": "tierra/roca",
+    "gen": 4
+  },
+  {
+    "pkm": "Tangrowth",
+    "ndex": 465,
+    "tipo": "planta",
+    "gen": 4
+  },
+  {
+    "pkm": "Electivire",
+    "ndex": 466,
+    "tipo": "eléctrico",
+    "gen": 4
+  },
+  {
+    "pkm": "Magmortar",
+    "ndex": 467,
+    "tipo": "fuego",
+    "gen": 4
+  },
+  {
+    "pkm": "Togekiss",
+    "ndex": 468,
+    "tipo": "hada/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Yanmega",
+    "ndex": 469,
+    "tipo": "bicho/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Leafeon",
+    "ndex": 470,
+    "tipo": "planta",
+    "gen": 4
+  },
+  {
+    "pkm": "Glaceon",
+    "ndex": 471,
+    "tipo": "hielo",
+    "gen": 4
+  },
+  {
+    "pkm": "Gliscor",
+    "ndex": 472,
+    "tipo": "tierra/volador",
+    "gen": 4
+  },
+  {
+    "pkm": "Mamoswine",
+    "ndex": 473,
+    "tipo": "hielo/tierra",
+    "gen": 4
+  },
+  {
+    "pkm": "Porygon Z",
+    "ndex": 474,
+    "tipo": "normal",
+    "gen": 4
+  },
+  {
+    "pkm": "Gallade",
+    "ndex": 475,
+    "tipo": "psíquico/lucha",
+    "gen": 4
+  },
+  {
+    "pkm": "Probopass",
+    "ndex": 476,
+    "tipo": "roca/acero",
+    "gen": 4
+  },
+  {
+    "pkm": "Dusknoir",
+    "ndex": 477,
+    "tipo": "fantasma",
+    "gen": 4
+  },
+  {
+    "pkm": "Froslass",
+    "ndex": 478,
+    "tipo": "hielo/fantasma",
+    "gen": 4
+  },
+  {
+    "pkm": "Rotom",
+    "ndex": 479,
+    "tipo": "eléctrico/fantasma",
+    "gen": 4
+  },
+  {
+    "pkm": "Uxie",
+    "ndex": 480,
+    "tipo": "psíquico",
+    "gen": 4
+  },
+  {
+    "pkm": "Mesprit",
+    "ndex": 481,
+    "tipo": "psíquico",
+    "gen": 4
+  },
+  {
+    "pkm": "Azelf",
+    "ndex": 482,
+    "tipo": "psíquico",
+    "gen": 4
+  },
+  {
+    "pkm": "Dialga",
+    "ndex": 483,
+    "tipo": "acero/dragón",
+    "gen": 4
+  },
+  {
+    "pkm": "Palkia",
+    "ndex": 484,
+    "tipo": "agua/dragón",
+    "gen": 4
+  },
+  {
+    "pkm": "Heatran",
+    "ndex": 485,
+    "tipo": "fuego/acero",
+    "gen": 4
+  },
+  {
+    "pkm": "Regigigas",
+    "ndex": 486,
+    "tipo": "normal",
+    "gen": 4
+  },
+  {
+    "pkm": "Giratina-Altered",
+    "ndex": 487,
+    "tipo": "fantasma/dragón",
+    "gen": 4
+  },
+  {
+    "pkm": "Cresselia",
+    "ndex": 488,
+    "tipo": "psíquico",
+    "gen": 4
+  },
+  {
+    "pkm": "Phione",
+    "ndex": 489,
+    "tipo": "agua",
+    "gen": 4
+  },
+  {
+    "pkm": "Manaphy",
+    "ndex": 490,
+    "tipo": "agua",
+    "gen": 4
+  },
+  {
+    "pkm": "Darkrai",
+    "ndex": 491,
+    "tipo": "siniestro",
+    "gen": 4
+  },
+  {
+    "pkm": "Shaymin-Land",
+    "ndex": 492,
+    "tipo": "planta",
+    "gen": 4
+  },
+  {
+    "pkm": "Arceus",
+    "ndex": 493,
+    "tipo": "normal",
+    "gen": 4
+  },
+  {
+    "pkm": "Victini",
+    "ndex": 494,
+    "tipo": "psíquico/fuego",
+    "gen": 5
+  },
+  {
+    "pkm": "Snivy",
+    "tipo": "planta",
+    "ndex": 495,
+    "gen": 5
+  },
+  {
+    "pkm": "Servine",
+    "ndex": 496,
+    "tipo": "planta",
+    "gen": 5
+  },
+  {
+    "pkm": "Serperior",
+    "ndex": 497,
+    "tipo": "planta",
+    "gen": 5
+  },
+  {
+    "pkm": "Tepig",
+    "tipo": "fuego",
+    "ndex": 498,
+    "gen": 5
+  },
+  {
+    "pkm": "Pignite",
+    "ndex": 499,
+    "tipo": "fuego/lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Emboar",
+    "ndex": 500,
+    "tipo": "fuego/lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Oshawott",
+    "tipo": "agua",
+    "ndex": 501,
+    "gen": 5
+  },
+  {
+    "pkm": "Dewott",
+    "ndex": 502,
+    "tipo": "agua",
+    "gen": 5
+  },
+  {
+    "pkm": "Samurott",
+    "ndex": 503,
+    "tipo": "agua",
+    "gen": 5
+  },
+  {
+    "pkm": "Patrat",
+    "ndex": 504,
+    "tipo": "normal",
+    "gen": 5
+  },
+  {
+    "pkm": "Watchog",
+    "ndex": 505,
+    "tipo": "normal",
+    "gen": 5
+  },
+  {
+    "pkm": "Lillipup",
+    "ndex": 506,
+    "tipo": "normal",
+    "gen": 5
+  },
+  {
+    "pkm": "Herdier",
+    "ndex": 507,
+    "tipo": "normal",
+    "gen": 5
+  },
+  {
+    "pkm": "Stoutland",
+    "ndex": 508,
+    "tipo": "normal",
+    "gen": 5
+  },
+  {
+    "pkm": "Purrloin",
+    "ndex": 509,
+    "tipo": "siniestro",
+    "gen": 5
+  },
+  {
+    "pkm": "Liepard",
+    "ndex": 510,
+    "tipo": "siniestro",
+    "gen": 5
+  },
+  {
+    "pkm": "Pansage",
+    "ndex": 511,
+    "tipo": "planta",
+    "gen": 5
+  },
+  {
+    "pkm": "Simisage",
+    "ndex": 512,
+    "tipo": "planta",
+    "gen": 5
+  },
+  {
+    "pkm": "Pansear",
+    "ndex": 513,
+    "tipo": "fuego",
+    "gen": 5
+  },
+  {
+    "pkm": "Simisear",
+    "ndex": 514,
+    "tipo": "fuego",
+    "gen": 5
+  },
+  {
+    "pkm": "Panpour",
+    "ndex": 515,
+    "tipo": "agua",
+    "gen": 5
+  },
+  {
+    "pkm": "Simipour",
+    "ndex": 516,
+    "tipo": "agua",
+    "gen": 5
+  },
+  {
+    "pkm": "Munna",
+    "ndex": 517,
+    "tipo": "psíquico",
+    "gen": 5
+  },
+  {
+    "pkm": "Musharna",
+    "ndex": 518,
+    "tipo": "psíquico",
+    "gen": 5
+  },
+  {
+    "pkm": "Pidove",
+    "ndex": 519,
+    "tipo": "normal/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Tranquill",
+    "ndex": 520,
+    "tipo": "normal/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Unfezant",
+    "ndex": 521,
+    "tipo": "normal/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Blitzle",
+    "ndex": 522,
+    "tipo": "eléctrico",
+    "gen": 5
+  },
+  {
+    "pkm": "Zebstrika",
+    "ndex": 523,
+    "tipo": "eléctrico",
+    "gen": 5
+  },
+  {
+    "pkm": "Roggenrola",
+    "ndex": 524,
+    "tipo": "roca",
+    "gen": 5
+  },
+  {
+    "pkm": "Boldore",
+    "ndex": 525,
+    "tipo": "roca",
+    "gen": 5
+  },
+  {
+    "pkm": "Gigalith",
+    "ndex": 526,
+    "tipo": "roca",
+    "gen": 5
+  },
+  {
+    "pkm": "Woobat",
+    "ndex": 527,
+    "tipo": "psíquico/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Swoobat",
+    "ndex": 528,
+    "tipo": "psíquico/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Drilbur",
+    "ndex": 529,
+    "tipo": "tierra",
+    "gen": 5
+  },
+  {
+    "pkm": "Excadrill",
+    "ndex": 530,
+    "tipo": "tierra/acero",
+    "gen": 5
+  },
+  {
+    "pkm": "Audino",
+    "ndex": 531,
+    "tipo": "normal",
+    "gen": 5
+  },
+  {
+    "pkm": "Timburr",
+    "ndex": 532,
+    "tipo": "lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Gurdurr",
+    "ndex": 533,
+    "tipo": "lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Conkeldurr",
+    "ndex": 534,
+    "tipo": "lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Tympole",
+    "ndex": 535,
+    "tipo": "agua",
+    "gen": 5
+  },
+  {
+    "pkm": "Palpitoad",
+    "ndex": 536,
+    "tipo": "agua/tierra",
+    "gen": 5
+  },
+  {
+    "pkm": "Seismitoad",
+    "ndex": 537,
+    "tipo": "agua/tierra",
+    "gen": 5
+  },
+  {
+    "pkm": "Throh",
+    "ndex": 538,
+    "tipo": "lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Sawk",
+    "ndex": 539,
+    "tipo": "lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Sewaddle",
+    "ndex": 540,
+    "tipo": "bicho/planta",
+    "gen": 5
+  },
+  {
+    "pkm": "Swadloon",
+    "ndex": 541,
+    "tipo": "bicho/planta",
+    "gen": 5
+  },
+  {
+    "pkm": "Leavanny",
+    "ndex": 542,
+    "tipo": "bicho/planta",
+    "gen": 5
+  },
+  {
+    "pkm": "Venipede",
+    "ndex": 543,
+    "tipo": "bicho/veneno",
+    "gen": 5
+  },
+  {
+    "pkm": "Whirlipede",
+    "ndex": 544,
+    "tipo": "bicho/veneno",
+    "gen": 5
+  },
+  {
+    "pkm": "Scolipede",
+    "ndex": 545,
+    "tipo": "bicho/veneno",
+    "gen": 5
+  },
+  {
+    "pkm": "Cottonee",
+    "ndex": 546,
+    "tipo": "planta/hada",
+    "gen": 5
+  },
+  {
+    "pkm": "Whimsicott",
+    "ndex": 547,
+    "tipo": "planta/hada",
+    "gen": 5
+  },
+  {
+    "pkm": "Petilil",
+    "ndex": 548,
+    "tipo": "planta",
+    "gen": 5
+  },
+  {
+    "pkm": "Lilligant",
+    "ndex": 549,
+    "tipo": "planta",
+    "gen": 5
+  },
+  {
+    "pkm": "Basculin Red Striped",
+    "ndex": 550,
+    "tipo": "agua",
+    "gen": 5
+  },
+  {
+    "pkm": "Sandile",
+    "ndex": 551,
+    "tipo": "tierra/siniestro",
+    "gen": 5
+  },
+  {
+    "pkm": "Krokorok",
+    "ndex": 552,
+    "tipo": "tierra/siniestro",
+    "gen": 5
+  },
+  {
+    "pkm": "Krookodile",
+    "ndex": 553,
+    "tipo": "tierra/siniestro",
+    "gen": 5
+  },
+  {
+    "pkm": "Darumaka",
+    "ndex": 554,
+    "tipo": "fuego",
+    "gen": 5
+  },
+  {
+    "pkm": "Darmanitan Standard",
+    "ndex": 555,
+    "tipo": "fuego",
+    "gen": 5
+  },
+  {
+    "pkm": "Maractus",
+    "ndex": 556,
+    "tipo": "planta",
+    "gen": 5
+  },
+  {
+    "pkm": "Dwebble",
+    "ndex": 557,
+    "tipo": "bicho/roca",
+    "gen": 5
+  },
+  {
+    "pkm": "Crustle",
+    "ndex": 558,
+    "tipo": "bicho/roca",
+    "gen": 5
+  },
+  {
+    "pkm": "Scraggy",
+    "ndex": 559,
+    "tipo": "siniestro/lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Scrafty",
+    "ndex": 560,
+    "tipo": "siniestro/lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Sigilyph",
+    "ndex": 561,
+    "tipo": "psíquico/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Yamask",
+    "ndex": 562,
+    "tipo": "fantasma",
+    "gen": 5
+  },
+  {
+    "pkm": "Cofagrigus",
+    "ndex": 563,
+    "tipo": "fantasma",
+    "gen": 5
+  },
+  {
+    "pkm": "Tirtouga",
+    "ndex": 564,
+    "tipo": "agua/roca",
+    "gen": 5
+  },
+  {
+    "pkm": "Carracosta",
+    "ndex": 565,
+    "tipo": "agua/roca",
+    "gen": 5
+  },
+  {
+    "pkm": "Archen",
+    "ndex": 566,
+    "tipo": "roca/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Archeops",
+    "ndex": 567,
+    "tipo": "roca/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Trubbish",
+    "ndex": 568,
+    "tipo": "veneno",
+    "gen": 5
+  },
+  {
+    "pkm": "Garbodor",
+    "ndex": 569,
+    "tipo": "veneno",
+    "gen": 5
+  },
+  {
+    "pkm": "Zorua",
+    "ndex": 570,
+    "tipo": "siniestro",
+    "gen": 5
+  },
+  {
+    "pkm": "Zoroark",
+    "ndex": 571,
+    "tipo": "siniestro",
+    "gen": 5
+  },
+  {
+    "pkm": "Minccino",
+    "ndex": 572,
+    "tipo": "normal",
+    "gen": 5
+  },
+  {
+    "pkm": "Cinccino",
+    "ndex": 573,
+    "tipo": "normal",
+    "gen": 5
+  },
+  {
+    "pkm": "Gothita",
+    "ndex": 574,
+    "tipo": "psíquico",
+    "gen": 5
+  },
+  {
+    "pkm": "Gothorita",
+    "ndex": 575,
+    "tipo": "psíquico",
+    "gen": 5
+  },
+  {
+    "pkm": "Gothitelle",
+    "ndex": 576,
+    "tipo": "psíquico",
+    "gen": 5
+  },
+  {
+    "pkm": "Solosis",
+    "ndex": 577,
+    "tipo": "psíquico",
+    "gen": 5
+  },
+  {
+    "pkm": "Duosion",
+    "ndex": 578,
+    "tipo": "psíquico",
+    "gen": 5
+  },
+  {
+    "pkm": "Reuniclus",
+    "ndex": 579,
+    "tipo": "psíquico",
+    "gen": 5
+  },
+  {
+    "pkm": "Ducklett",
+    "ndex": 580,
+    "tipo": "agua/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Swanna",
+    "ndex": 581,
+    "tipo": "agua/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Vanillite",
+    "ndex": 582,
+    "tipo": "hielo",
+    "gen": 5
+  },
+  {
+    "pkm": "Vanillish",
+    "ndex": 583,
+    "tipo": "hielo",
+    "gen": 5
+  },
+  {
+    "pkm": "Vanilluxe",
+    "ndex": 584,
+    "tipo": "hielo",
+    "gen": 5
+  },
+  {
+    "pkm": "Deerling",
+    "ndex": 585,
+    "tipo": "normal/planta",
+    "gen": 5
+  },
+  {
+    "pkm": "Sawsbuck",
+    "ndex": 586,
+    "tipo": "normal/planta",
+    "gen": 5
+  },
+  {
+    "pkm": "Emolga",
+    "ndex": 587,
+    "tipo": "eléctrico/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Karrablast",
+    "ndex": 588,
+    "tipo": "bicho",
+    "gen": 5
+  },
+  {
+    "pkm": "Escavalier",
+    "ndex": 589,
+    "tipo": "bicho/acero",
+    "gen": 5
+  },
+  {
+    "pkm": "Foongus",
+    "ndex": 590,
+    "tipo": "planta/veneno",
+    "gen": 5
+  },
+  {
+    "pkm": "Amoonguss",
+    "ndex": 591,
+    "tipo": "planta/veneno",
+    "gen": 5
+  },
+  {
+    "pkm": "Frillish",
+    "ndex": 592,
+    "tipo": "agua/fantasma",
+    "gen": 5
+  },
+  {
+    "pkm": "Jellicent",
+    "ndex": 593,
+    "tipo": "agua/fantasma",
+    "gen": 5
+  },
+  {
+    "pkm": "Alomomola",
+    "ndex": 594,
+    "tipo": "agua",
+    "gen": 5
+  },
+  {
+    "pkm": "Joltik",
+    "ndex": 595,
+    "tipo": "bicho/eléctrico",
+    "gen": 5
+  },
+  {
+    "pkm": "Galvantula",
+    "ndex": 596,
+    "tipo": "bicho/eléctrico",
+    "gen": 5
+  },
+  {
+    "pkm": "Ferroseed",
+    "ndex": 597,
+    "tipo": "planta/acero",
+    "gen": 5
+  },
+  {
+    "pkm": "Ferrothorn",
+    "ndex": 598,
+    "tipo": "planta/acero",
+    "gen": 5
+  },
+  {
+    "pkm": "Klink",
+    "ndex": 599,
+    "tipo": "acero",
+    "gen": 5
+  },
+  {
+    "pkm": "Klang",
+    "ndex": 600,
+    "tipo": "acero",
+    "gen": 5
+  },
+  {
+    "pkm": "Klinklang",
+    "ndex": 601,
+    "tipo": "acero",
+    "gen": 5
+  },
+  {
+    "pkm": "Tynamo",
+    "ndex": 602,
+    "tipo": "eléctrico",
+    "gen": 5
+  },
+  {
+    "pkm": "Eelektrik",
+    "ndex": 603,
+    "tipo": "eléctrico",
+    "gen": 5
+  },
+  {
+    "pkm": "Eelektross",
+    "ndex": 604,
+    "tipo": "eléctrico",
+    "gen": 5
+  },
+  {
+    "pkm": "Elgyem",
+    "ndex": 605,
+    "tipo": "psíquico",
+    "gen": 5
+  },
+  {
+    "pkm": "Beheeyem",
+    "ndex": 606,
+    "tipo": "psíquico",
+    "gen": 5
+  },
+  {
+    "pkm": "Litwick",
+    "ndex": 607,
+    "tipo": "fantasma/fuego",
+    "gen": 5
+  },
+  {
+    "pkm": "Lampent",
+    "ndex": 608,
+    "tipo": "fantasma/fuego",
+    "gen": 5
+  },
+  {
+    "pkm": "Chandelure",
+    "ndex": 609,
+    "tipo": "fantasma/fuego",
+    "gen": 5
+  },
+  {
+    "pkm": "Axew",
+    "ndex": 610,
+    "tipo": "dragón",
+    "gen": 5
+  },
+  {
+    "pkm": "Fraxure",
+    "ndex": 611,
+    "tipo": "dragón",
+    "gen": 5
+  },
+  {
+    "pkm": "Haxorus",
+    "ndex": 612,
+    "tipo": "dragón",
+    "gen": 5
+  },
+  {
+    "pkm": "Cubchoo",
+    "ndex": 613,
+    "tipo": "hielo",
+    "gen": 5
+  },
+  {
+    "pkm": "Beartic",
+    "ndex": 614,
+    "tipo": "hielo",
+    "gen": 5
+  },
+  {
+    "pkm": "Cryogonal",
+    "ndex": 615,
+    "tipo": "hielo",
+    "gen": 5
+  },
+  {
+    "pkm": "Shelmet",
+    "ndex": 616,
+    "tipo": "bicho",
+    "gen": 5
+  },
+  {
+    "pkm": "Accelgor",
+    "ndex": 617,
+    "tipo": "bicho",
+    "gen": 5
+  },
+  {
+    "pkm": "Stunfisk",
+    "ndex": 618,
+    "tipo": "tierra/eléctrico",
+    "gen": 5
+  },
+  {
+    "pkm": "Mienfoo",
+    "ndex": 619,
+    "tipo": "lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Mienshao",
+    "ndex": 620,
+    "tipo": "lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Druddigon",
+    "ndex": 621,
+    "tipo": "dragón",
+    "gen": 5
+  },
+  {
+    "pkm": "Golett",
+    "ndex": 622,
+    "tipo": "tierra/fantasma",
+    "gen": 5
+  },
+  {
+    "pkm": "Golurk",
+    "ndex": 623,
+    "tipo": "tierra/fantasma",
+    "gen": 5
+  },
+  {
+    "pkm": "Pawniard",
+    "ndex": 624,
+    "tipo": "siniestro/acero",
+    "gen": 5
+  },
+  {
+    "pkm": "Bisharp",
+    "ndex": 625,
+    "tipo": "siniestro/acero",
+    "gen": 5
+  },
+  {
+    "pkm": "Bouffalant",
+    "ndex": 626,
+    "tipo": "normal",
+    "gen": 5
+  },
+  {
+    "pkm": "Rufflet",
+    "ndex": 627,
+    "tipo": "normal/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Braviary",
+    "ndex": 628,
+    "tipo": "normal/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Vullaby",
+    "ndex": 629,
+    "tipo": "siniestro/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Mandibuzz",
+    "ndex": 630,
+    "tipo": "siniestro/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Heatmor",
+    "ndex": 631,
+    "tipo": "fuego",
+    "gen": 5
+  },
+  {
+    "pkm": "Durant",
+    "ndex": 632,
+    "tipo": "bicho/acero",
+    "gen": 5
+  },
+  {
+    "pkm": "Deino",
+    "ndex": 633,
+    "tipo": "siniestro/dragón",
+    "gen": 5
+  },
+  {
+    "pkm": "Zweilous",
+    "ndex": 634,
+    "tipo": "siniestro/dragón",
+    "gen": 5
+  },
+  {
+    "pkm": "Hydreigon",
+    "ndex": 635,
+    "tipo": "siniestro/dragón",
+    "gen": 5
+  },
+  {
+    "pkm": "Larvesta",
+    "ndex": 636,
+    "tipo": "bicho/fuego",
+    "gen": 5
+  },
+  {
+    "pkm": "Volcarona",
+    "ndex": 637,
+    "tipo": "bicho/fuego",
+    "gen": 5
+  },
+  {
+    "pkm": "Cobalion",
+    "ndex": 638,
+    "tipo": "acero/lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Terrakion",
+    "ndex": 639,
+    "tipo": "roca/lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Virizion",
+    "ndex": 640,
+    "tipo": "planta/lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Tornadus-Incarnate",
+    "ndex": 641,
+    "tipo": "volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Thundurus-Incarnate",
+    "ndex": 642,
+    "tipo": "eléctrico/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Reshiram",
+    "ndex": 643,
+    "tipo": "dragón/fuego",
+    "gen": 5
+  },
+  {
+    "pkm": "Zekrom",
+    "ndex": 644,
+    "tipo": "dragón/eléctrico",
+    "gen": 5
+  },
+  {
+    "pkm": "Landorus-Incarnate",
+    "ndex": 645,
+    "tipo": "tierra/volador",
+    "gen": 5
+  },
+  {
+    "pkm": "Kyurem",
+    "ndex": 646,
+    "tipo": "dragón/hielo",
+    "gen": 5
+  },
+  {
+    "pkm": "Keldeo-Ordinary",
+    "ndex": 647,
+    "tipo": "agua/lucha",
+    "gen": 5
+  },
+  {
+    "pkm": "Meloetta-Aria",
+    "ndex": 648,
+    "tipo": "normal/psíquico",
+    "gen": 5
+  },
+  {
+    "pkm": "Genesect",
+    "ndex": 649,
+    "tipo": "bicho/acero",
+    "gen": 5
+  },
+  {
+    "pkm": "Chespin",
+    "tipo": "planta",
+    "ndex": 650,
+    "gen": 6
+  },
+  {
+    "pkm": "Quilladin",
+    "ndex": 651,
+    "tipo": "planta",
+    "gen": 6
+  },
+  {
+    "pkm": "Chesnaught",
+    "ndex": 652,
+    "tipo": "planta/lucha",
+    "gen": 6
+  },
+  {
+    "pkm": "Fennekin",
+    "tipo": "fuego",
+    "ndex": 653,
+    "gen": 6
+  },
+  {
+    "pkm": "Braixen",
+    "ndex": 654,
+    "tipo": "fuego",
+    "gen": 6
+  },
+  {
+    "pkm": "Delphox",
+    "ndex": 655,
+    "tipo": "fuego/psíquico",
+    "gen": 6
+  },
+  {
+    "pkm": "Froakie",
+    "tipo": "agua",
+    "ndex": 656,
+    "gen": 6
+  },
+  {
+    "pkm": "Frogadier",
+    "ndex": 657,
+    "tipo": "agua",
+    "gen": 6
+  },
+  {
+    "pkm": "Greninja",
+    "ndex": 658,
+    "tipo": "agua/siniestro",
+    "gen": 6
+  },
+  {
+    "pkm": "Bunnelby",
+    "ndex": 659,
+    "tipo": "normal",
+    "gen": 6
+  },
+  {
+    "pkm": "Diggersby",
+    "ndex": 660,
+    "tipo": "normal/tierra",
+    "gen": 6
+  },
+  {
+    "pkm": "Fletchling",
+    "ndex": 661,
+    "tipo": "normal/volador",
+    "gen": 6
+  },
+  {
+    "pkm": "Fletchinder",
+    "ndex": 662,
+    "tipo": "fuego/volador",
+    "gen": 6
+  },
+  {
+    "pkm": "Talonflame",
+    "ndex": 663,
+    "tipo": "fuego/volador",
+    "gen": 6
+  },
+  {
+    "pkm": "Scatterbug",
+    "ndex": 664,
+    "tipo": "bicho",
+    "gen": 6
+  },
+  {
+    "pkm": "Spewpa",
+    "ndex": 665,
+    "tipo": "bicho",
+    "gen": 6
+  },
+  {
+    "pkm": "Vivillon",
+    "ndex": 666,
+    "tipo": "bicho/volador",
+    "gen": 6
+  },
+  {
+    "pkm": "Litleo",
+    "ndex": 667,
+    "tipo": "fuego/normal",
+    "gen": 6
+  },
+  {
+    "pkm": "Pyroar",
+    "ndex": 668,
+    "tipo": "fuego/normal",
+    "gen": 6
+  },
+  {
+    "pkm": "Flabebe",
+    "ndex": 669,
+    "tipo": "hada",
+    "gen": 6
+  },
+  {
+    "pkm": "Floette",
+    "ndex": 670,
+    "tipo": "hada",
+    "gen": 6
+  },
+  {
+    "pkm": "Florges",
+    "ndex": 671,
+    "tipo": "hada",
+    "gen": 6
+  },
+  {
+    "pkm": "Skiddo",
+    "ndex": 672,
+    "tipo": "planta",
+    "gen": 6
+  },
+  {
+    "pkm": "Gogoat",
+    "ndex": 673,
+    "tipo": "planta",
+    "gen": 6
+  },
+  {
+    "pkm": "Pancham",
+    "ndex": 674,
+    "tipo": "lucha",
+    "gen": 6
+  },
+  {
+    "pkm": "Pangoro",
+    "ndex": 675,
+    "tipo": "lucha/siniestro",
+    "gen": 6
+  },
+  {
+    "pkm": "Furfrou",
+    "ndex": 676,
+    "tipo": "normal",
+    "gen": 6
+  },
+  {
+    "pkm": "Espurr",
+    "ndex": 677,
+    "tipo": "psíquico",
+    "gen": 6
+  },
+  {
+    "pkm": "Meowstic Male",
+    "ndex": 678,
+    "tipo": "psíquico",
+    "gen": 6
+  },
+  {
+    "pkm": "Honedge",
+    "ndex": 679,
+    "tipo": "acero/fantasma",
+    "gen": 6
+  },
+  {
+    "pkm": "Doublade",
+    "ndex": 680,
+    "tipo": "acero/fantasma",
+    "gen": 6
+  },
+  {
+    "pkm": "Aegislash Shield",
+    "ndex": 681,
+    "tipo": "acero/fantasma",
+    "gen": 6
+  },
+  {
+    "pkm": "Spritzee",
+    "ndex": 682,
+    "tipo": "hada",
+    "gen": 6
+  },
+  {
+    "pkm": "Aromatisse",
+    "ndex": 683,
+    "tipo": "hada",
+    "gen": 6
+  },
+  {
+    "pkm": "Swirlix",
+    "ndex": 684,
+    "tipo": "hada",
+    "gen": 6
+  },
+  {
+    "pkm": "Slurpuff",
+    "ndex": 685,
+    "tipo": "hada",
+    "gen": 6
+  },
+  {
+    "pkm": "Inkay",
+    "ndex": 686,
+    "tipo": "siniestro/psíquico",
+    "gen": 6
+  },
+  {
+    "pkm": "Malamar",
+    "ndex": 687,
+    "tipo": "siniestro/psíquico",
+    "gen": 6
+  },
+  {
+    "pkm": "Binacle",
+    "ndex": 688,
+    "tipo": "roca/agua",
+    "gen": 6
+  },
+  {
+    "pkm": "Barbaracle",
+    "ndex": 689,
+    "tipo": "roca/agua",
+    "gen": 6
+  },
+  {
+    "pkm": "Skrelp",
+    "ndex": 690,
+    "tipo": "veneno/agua",
+    "gen": 6
+  },
+  {
+    "pkm": "Dragalge",
+    "ndex": 691,
+    "tipo": "veneno/dragón",
+    "gen": 6
+  },
+  {
+    "pkm": "Clauncher",
+    "ndex": 692,
+    "tipo": "agua",
+    "gen": 6
+  },
+  {
+    "pkm": "Clawitzer",
+    "ndex": 693,
+    "tipo": "agua",
+    "gen": 6
+  },
+  {
+    "pkm": "Helioptile",
+    "ndex": 694,
+    "tipo": "eléctrico/normal",
+    "gen": 6
+  },
+  {
+    "pkm": "Heliolisk",
+    "ndex": 695,
+    "tipo": "eléctrico/normal",
+    "gen": 6
+  },
+  {
+    "pkm": "Tyrunt",
+    "ndex": 696,
+    "tipo": "roca/dragón",
+    "gen": 6
+  },
+  {
+    "pkm": "Tyrantrum",
+    "ndex": 697,
+    "tipo": "roca/dragón",
+    "gen": 6
+  },
+  {
+    "pkm": "Amaura",
+    "ndex": 698,
+    "tipo": "roca/hielo",
+    "gen": 6
+  },
+  {
+    "pkm": "Aurorus",
+    "ndex": 699,
+    "tipo": "roca/hielo",
+    "gen": 6
+  },
+  {
+    "pkm": "Sylveon",
+    "ndex": 700,
+    "tipo": "hada",
+    "gen": 6
+  },
+  {
+    "pkm": "Hawlucha",
+    "ndex": 701,
+    "tipo": "lucha/volador",
+    "gen": 6
+  },
+  {
+    "pkm": "Dedenne",
+    "ndex": 702,
+    "tipo": "eléctrico/hada",
+    "gen": 6
+  },
+  {
+    "pkm": "Carbink",
+    "ndex": 703,
+    "tipo": "roca/hada",
+    "gen": 6
+  },
+  {
+    "pkm": "Goomy",
+    "ndex": 704,
+    "tipo": "dragón",
+    "gen": 6
+  },
+  {
+    "pkm": "Sliggoo",
+    "ndex": 705,
+    "tipo": "dragón",
+    "gen": 6
+  },
+  {
+    "pkm": "Goodra",
+    "ndex": 706,
+    "tipo": "dragón",
+    "gen": 6
+  },
+  {
+    "pkm": "Klefki",
+    "ndex": 707,
+    "tipo": "acero/hada",
+    "gen": 6
+  },
+  {
+    "pkm": "Phantump",
+    "ndex": 708,
+    "tipo": "fantasma/planta",
+    "gen": 6
+  },
+  {
+    "pkm": "Trevenant",
+    "ndex": 709,
+    "tipo": "fantasma/planta",
+    "gen": 6
+  },
+  {
+    "pkm": "Pumpkaboo Average",
+    "ndex": 710,
+    "tipo": "fantasma/planta",
+    "gen": 6
+  },
+  {
+    "pkm": "Gourgeist Average",
+    "ndex": 711,
+    "tipo": "fantasma/planta",
+    "gen": 6
+  },
+  {
+    "pkm": "Bergmite",
+    "ndex": 712,
+    "tipo": "hielo",
+    "gen": 6
+  },
+  {
+    "pkm": "Avalugg",
+    "ndex": 713,
+    "tipo": "hielo",
+    "gen": 6
+  },
+  {
+    "pkm": "Noibat",
+    "ndex": 714,
+    "tipo": "volador/dragón",
+    "gen": 6
+  },
+  {
+    "pkm": "Noivern",
+    "ndex": 715,
+    "tipo": "volador/dragón",
+    "gen": 6
+  },
+  {
+    "pkm": "Xerneas",
+    "ndex": 716,
+    "tipo": "hada",
+    "gen": 6
+  },
+  {
+    "pkm": "Yveltal",
+    "ndex": 717,
+    "tipo": "siniestro/volador",
+    "gen": 6
+  },
+  {
+    "pkm": "Zygarde-50",
+    "ndex": 718,
+    "tipo": "dragón/tierra",
+    "gen": 6
+  },
+  {
+    "pkm": "Diancie",
+    "ndex": 719,
+    "tipo": "roca/hada",
+    "gen": 6
+  },
+  {
+    "pkm": "Hoopa",
+    "ndex": 720,
+    "tipo": "psíquico/fantasma",
+    "gen": 6
+  },
+  {
+    "pkm": "Volcanion",
+    "ndex": 721,
+    "tipo": "fuego/agua",
+    "gen": 6
+  },
+  {
+    "pkm": "Rowlet",
+    "tipo": "planta/volador",
+    "ndex": 722,
+    "gen": 7
+  },
+  {
+    "pkm": "Dartrix",
+    "ndex": 723,
+    "tipo": "planta/volador",
+    "gen": 7
+  },
+  {
+    "pkm": "Decidueye",
+    "ndex": 724,
+    "tipo": "planta/fantasma",
+    "gen": 7
+  },
+  {
+    "pkm": "Litten",
+    "tipo": "fuego",
+    "ndex": 725,
+    "gen": 7
+  },
+  {
+    "pkm": "Torracat",
+    "ndex": 726,
+    "tipo": "fuego",
+    "gen": 7
+  },
+  {
+    "pkm": "Incineroar",
+    "ndex": 727,
+    "tipo": "fuego/siniestro",
+    "gen": 7
+  },
+  {
+    "pkm": "Popplio",
+    "tipo": "agua",
+    "ndex": 728,
+    "gen": 7
+  },
+  {
+    "pkm": "Brionne",
+    "ndex": 729,
+    "tipo": "agua",
+    "gen": 7
+  },
+  {
+    "pkm": "Primarina",
+    "ndex": 730,
+    "tipo": "agua/hada",
+    "gen": 7
+  },
+  {
+    "pkm": "Pikipek",
+    "ndex": 731,
+    "tipo": "normal/volador",
+    "gen": 7
+  },
+  {
+    "pkm": "Trumbeak",
+    "ndex": 732,
+    "tipo": "normal/volador",
+    "gen": 7
+  },
+  {
+    "pkm": "Toucannon",
+    "ndex": 733,
+    "tipo": "normal/volador",
+    "gen": 7
+  },
+  {
+    "pkm": "Yungoos",
+    "ndex": 734,
+    "tipo": "normal",
+    "gen": 7
+  },
+  {
+    "pkm": "Gumshoos",
+    "ndex": 735,
+    "tipo": "normal",
+    "gen": 7
+  },
+  {
+    "pkm": "Grubbin",
+    "ndex": 736,
+    "tipo": "bicho",
+    "gen": 7
+  },
+  {
+    "pkm": "Charjabug",
+    "ndex": 737,
+    "tipo": "bicho/eléctrico",
+    "gen": 7
+  },
+  {
+    "pkm": "Vikavolt",
+    "ndex": 738,
+    "tipo": "bicho/eléctrico",
+    "gen": 7
+  },
+  {
+    "pkm": "Crabrawler",
+    "ndex": 739,
+    "tipo": "lucha",
+    "gen": 7
+  },
+  {
+    "pkm": "Crabominable",
+    "ndex": 740,
+    "tipo": "lucha/hielo",
+    "gen": 7
+  },
+  {
+    "pkm": "Oricorio Baile",
+    "ndex": 741,
+    "tipo": "fuego/volador",
+    "gen": 7
+  },
+  {
+    "pkm": "Cutiefly",
+    "ndex": 742,
+    "tipo": "bicho/hada",
+    "gen": 7
+  },
+  {
+    "pkm": "Ribombee",
+    "ndex": 743,
+    "tipo": "bicho/hada",
+    "gen": 7
+  },
+  {
+    "pkm": "Rockruff",
+    "ndex": 744,
+    "tipo": "roca",
+    "gen": 7
+  },
+  {
+    "pkm": "Lycanroc Midday",
+    "ndex": 745,
+    "tipo": "roca",
+    "gen": 7
+  },
+  {
+    "pkm": "Wishiwashi Solo",
+    "ndex": 746,
+    "tipo": "agua",
+    "gen": 7
+  },
+  {
+    "pkm": "Mareanie",
+    "ndex": 747,
+    "tipo": "veneno/agua",
+    "gen": 7
+  },
+  {
+    "pkm": "Toxapex",
+    "ndex": 748,
+    "tipo": "veneno/agua",
+    "gen": 7
+  },
+  {
+    "pkm": "Mudbray",
+    "ndex": 749,
+    "tipo": "tierra",
+    "gen": 7
+  },
+  {
+    "pkm": "Mudsdale",
+    "ndex": 750,
+    "tipo": "tierra",
+    "gen": 7
+  },
+  {
+    "pkm": "Dewpider",
+    "ndex": 751,
+    "tipo": "agua/bicho",
+    "gen": 7
+  },
+  {
+    "pkm": "Araquanid",
+    "ndex": 752,
+    "tipo": "agua/bicho",
+    "gen": 7
+  },
+  {
+    "pkm": "Fomantis",
+    "ndex": 753,
+    "tipo": "planta",
+    "gen": 7
+  },
+  {
+    "pkm": "Lurantis",
+    "ndex": 754,
+    "tipo": "planta",
+    "gen": 7
+  },
+  {
+    "pkm": "Morelull",
+    "ndex": 755,
+    "tipo": "planta/hada",
+    "gen": 7
+  },
+  {
+    "pkm": "Shiinotic",
+    "ndex": 756,
+    "tipo": "planta/hada",
+    "gen": 7
+  },
+  {
+    "pkm": "Salandit",
+    "ndex": 757,
+    "tipo": "veneno/fuego",
+    "gen": 7
+  },
+  {
+    "pkm": "Salazzle",
+    "ndex": 758,
+    "tipo": "veneno/fuego",
+    "gen": 7
+  },
+  {
+    "pkm": "Stufful",
+    "ndex": 759,
+    "tipo": "normal/lucha",
+    "gen": 7
+  },
+  {
+    "pkm": "Bewear",
+    "ndex": 760,
+    "tipo": "normal/lucha",
+    "gen": 7
+  },
+  {
+    "pkm": "Bounsweet",
+    "ndex": 761,
+    "tipo": "planta",
+    "gen": 7
+  },
+  {
+    "pkm": "Steenee",
+    "ndex": 762,
+    "tipo": "planta",
+    "gen": 7
+  },
+  {
+    "pkm": "Tsareena",
+    "ndex": 763,
+    "tipo": "planta",
+    "gen": 7
+  },
+  {
+    "pkm": "Comfey",
+    "ndex": 764,
+    "tipo": "hada",
+    "gen": 7
+  },
+  {
+    "pkm": "Oranguru",
+    "ndex": 765,
+    "tipo": "normal/psíquico",
+    "gen": 7
+  },
+  {
+    "pkm": "Passimian",
+    "ndex": 766,
+    "tipo": "lucha",
+    "gen": 7
+  },
+  {
+    "pkm": "Wimpod",
+    "ndex": 767,
+    "tipo": "bicho/agua",
+    "gen": 7
+  },
+  {
+    "pkm": "Golisopod",
+    "ndex": 768,
+    "tipo": "bicho/agua",
+    "gen": 7
+  },
+  {
+    "pkm": "Sandygast",
+    "ndex": 769,
+    "tipo": "fantasma/tierra",
+    "gen": 7
+  },
+  {
+    "pkm": "Palossand",
+    "ndex": 770,
+    "tipo": "fantasma/tierra",
+    "gen": 7
+  },
+  {
+    "pkm": "Pyukumuku",
+    "ndex": 771,
+    "tipo": "agua",
+    "gen": 7
+  },
+  {
+    "pkm": "Type Null",
+    "ndex": 772,
+    "tipo": "normal",
+    "gen": 7
+  },
+  {
+    "pkm": "Silvally",
+    "ndex": 773,
+    "tipo": "normal",
+    "gen": 7
+  },
+  {
+    "pkm": "Minior Red Meteor",
+    "ndex": 774,
+    "tipo": "roca/volador",
+    "gen": 7
+  },
+  {
+    "pkm": "Komala",
+    "ndex": 775,
+    "tipo": "normal",
+    "gen": 7
+  },
+  {
+    "pkm": "Turtonator",
+    "ndex": 776,
+    "tipo": "fuego/dragón",
+    "gen": 7
+  },
+  {
+    "pkm": "Togedemaru",
+    "ndex": 777,
+    "tipo": "eléctrico/acero",
+    "gen": 7
+  },
+  {
+    "pkm": "Mimikyu Disguised",
+    "ndex": 778,
+    "tipo": "fantasma/hada",
+    "gen": 7
+  },
+  {
+    "pkm": "Bruxish",
+    "ndex": 779,
+    "tipo": "agua/psíquico",
+    "gen": 7
+  },
+  {
+    "pkm": "Drampa",
+    "ndex": 780,
+    "tipo": "normal/dragón",
+    "gen": 7
+  },
+  {
+    "pkm": "Dhelmise",
+    "ndex": 781,
+    "tipo": "fantasma/planta",
+    "gen": 7
+  },
+  {
+    "pkm": "Jangmo O",
+    "ndex": 782,
+    "tipo": "dragón",
+    "gen": 7
+  },
+  {
+    "pkm": "Hakamo O",
+    "ndex": 783,
+    "tipo": "dragón/lucha",
+    "gen": 7
+  },
+  {
+    "pkm": "Kommo O",
+    "ndex": 784,
+    "tipo": "dragón/lucha",
+    "gen": 7
+  },
+  {
+    "pkm": "Tapu-Koko",
+    "ndex": 785,
+    "tipo": "eléctrico/hada",
+    "gen": 7
+  },
+  {
+    "pkm": "Tapu-Lele",
+    "ndex": 786,
+    "tipo": "psíquico/hada",
+    "gen": 7
+  },
+  {
+    "pkm": "Tapu-Bulu",
+    "ndex": 787,
+    "tipo": "planta/hada",
+    "gen": 7
+  },
+  {
+    "pkm": "Tapu-Fini",
+    "ndex": 788,
+    "tipo": "agua/hada",
+    "gen": 7
+  },
+  {
+    "pkm": "Cosmog",
+    "ndex": 789,
+    "tipo": "psíquico",
+    "gen": 7
+  },
+  {
+    "pkm": "Cosmoem",
+    "ndex": 790,
+    "tipo": "psíquico",
+    "gen": 7
+  },
+  {
+    "pkm": "Solgaleo",
+    "ndex": 791,
+    "tipo": "psíquico/acero",
+    "gen": 7
+  },
+  {
+    "pkm": "Lunala",
+    "ndex": 792,
+    "tipo": "psíquico/fantasma",
+    "gen": 7
+  },
+  {
+    "pkm": "Nihilego",
+    "ndex": 793,
+    "tipo": "roca/veneno",
+    "gen": 7
+  },
+  {
+    "pkm": "Buzzwole",
+    "ndex": 794,
+    "tipo": "bicho/lucha",
+    "gen": 7
+  },
+  {
+    "pkm": "Pheromosa",
+    "ndex": 795,
+    "tipo": "bicho/lucha",
+    "gen": 7
+  },
+  {
+    "pkm": "Xurkitree",
+    "ndex": 796,
+    "tipo": "eléctrico",
+    "gen": 7
+  },
+  {
+    "pkm": "Celesteela",
+    "ndex": 797,
+    "tipo": "acero/volador",
+    "gen": 7
+  },
+  {
+    "pkm": "Kartana",
+    "ndex": 798,
+    "tipo": "planta/acero",
+    "gen": 7
+  },
+  {
+    "pkm": "Guzzlord",
+    "ndex": 799,
+    "tipo": "siniestro/dragón",
+    "gen": 7
+  },
+  {
+    "pkm": "Necrozma",
+    "ndex": 800,
+    "tipo": "psíquico",
+    "gen": 7
+  },
+  {
+    "pkm": "Magearna",
+    "ndex": 801,
+    "tipo": "acero/hada",
+    "gen": 7
+  },
+  {
+    "pkm": "Marshadow",
+    "ndex": 802,
+    "tipo": "lucha/fantasma",
+    "gen": 7
+  },
+  {
+    "pkm": "Poipole",
+    "ndex": 803,
+    "tipo": "veneno",
+    "gen": 7
+  },
+  {
+    "pkm": "Naganadel",
+    "ndex": 804,
+    "tipo": "veneno/dragón",
+    "gen": 7
+  },
+  {
+    "pkm": "Stakataka",
+    "ndex": 805,
+    "tipo": "roca/acero",
+    "gen": 7
+  },
+  {
+    "pkm": "Blacephalon",
+    "ndex": 806,
+    "tipo": "fuego/fantasma",
+    "gen": 7
+  },
+  {
+    "pkm": "Zeraora",
+    "ndex": 807,
+    "tipo": "eléctrico",
+    "gen": 7
+  },
+  {
+    "pkm": "Meltan",
+    "ndex": 808,
+    "tipo": "acero",
+    "gen": 7
+  },
+  {
+    "pkm": "Melmetal",
+    "ndex": 809,
+    "tipo": "acero",
+    "gen": 7
+  },
+  {
+    "pkm": "Grookey",
+    "tipo": "planta",
+    "ndex": 810,
+    "gen": 8
+  },
+  {
+    "pkm": "Thwackey",
+    "ndex": 811,
+    "tipo": "planta",
+    "gen": 8
+  },
+  {
+    "pkm": "Rillaboom",
+    "ndex": 812,
+    "tipo": "planta",
+    "gen": 8
+  },
+  {
+    "pkm": "Scorbunny",
+    "tipo": "fuego",
+    "ndex": 813,
+    "gen": 8
+  },
+  {
+    "pkm": "Raboot",
+    "ndex": 814,
+    "tipo": "fuego",
+    "gen": 8
+  },
+  {
+    "pkm": "Cinderace",
+    "ndex": 815,
+    "tipo": "fuego",
+    "gen": 8
+  },
+  {
+    "pkm": "Sobble",
+    "tipo": "agua",
+    "ndex": 816,
+    "gen": 8
+  },
+  {
+    "pkm": "Drizzile",
+    "ndex": 817,
+    "tipo": "agua",
+    "gen": 8
+  },
+  {
+    "pkm": "Inteleon",
+    "ndex": 818,
+    "tipo": "agua",
+    "gen": 8
+  },
+  {
+    "pkm": "Skwovet",
+    "ndex": 819,
+    "tipo": "normal",
+    "gen": 8
+  },
+  {
+    "pkm": "Greedent",
+    "ndex": 820,
+    "tipo": "normal",
+    "gen": 8
+  },
+  {
+    "pkm": "Rookidee",
+    "ndex": 821,
+    "tipo": "volador",
+    "gen": 8
+  },
+  {
+    "pkm": "Corvisquire",
+    "ndex": 822,
+    "tipo": "volador",
+    "gen": 8
+  },
+  {
+    "pkm": "Corviknight",
+    "ndex": 823,
+    "tipo": "volador/acero",
+    "gen": 8
+  },
+  {
+    "pkm": "Blipbug",
+    "ndex": 824,
+    "tipo": "bicho",
+    "gen": 8
+  },
+  {
+    "pkm": "Dottler",
+    "ndex": 825,
+    "tipo": "bicho/psíquico",
+    "gen": 8
+  },
+  {
+    "pkm": "Orbeetle",
+    "ndex": 826,
+    "tipo": "bicho/psíquico",
+    "gen": 8
+  },
+  {
+    "pkm": "Nickit",
+    "ndex": 827,
+    "tipo": "siniestro",
+    "gen": 8
+  },
+  {
+    "pkm": "Thievul",
+    "ndex": 828,
+    "tipo": "siniestro",
+    "gen": 8
+  },
+  {
+    "pkm": "Gossifleur",
+    "ndex": 829,
+    "tipo": "planta",
+    "gen": 8
+  },
+  {
+    "pkm": "Eldegoss",
+    "ndex": 830,
+    "tipo": "planta",
+    "gen": 8
+  },
+  {
+    "pkm": "Wooloo",
+    "ndex": 831,
+    "tipo": "normal",
+    "gen": 8
+  },
+  {
+    "pkm": "Dubwool",
+    "ndex": 832,
+    "tipo": "normal",
+    "gen": 8
+  },
+  {
+    "pkm": "Chewtle",
+    "ndex": 833,
+    "tipo": "agua",
+    "gen": 8
+  },
+  {
+    "pkm": "Drednaw",
+    "ndex": 834,
+    "tipo": "agua/roca",
+    "gen": 8
+  },
+  {
+    "pkm": "Yamper",
+    "ndex": 835,
+    "tipo": "eléctrico",
+    "gen": 8
+  },
+  {
+    "pkm": "Boltund",
+    "ndex": 836,
+    "tipo": "eléctrico",
+    "gen": 8
+  },
+  {
+    "pkm": "Rolycoly",
+    "ndex": 837,
+    "tipo": "roca",
+    "gen": 8
+  },
+  {
+    "pkm": "Carkol",
+    "ndex": 838,
+    "tipo": "roca/fuego",
+    "gen": 8
+  },
+  {
+    "pkm": "Coalossal",
+    "ndex": 839,
+    "tipo": "roca/fuego",
+    "gen": 8
+  },
+  {
+    "pkm": "Applin",
+    "ndex": 840,
+    "tipo": "planta/dragón",
+    "gen": 8
+  },
+  {
+    "pkm": "Flapple",
+    "ndex": 841,
+    "tipo": "planta/dragón",
+    "gen": 8
+  },
+  {
+    "pkm": "Appletun",
+    "ndex": 842,
+    "tipo": "planta/dragón",
+    "gen": 8
+  },
+  {
+    "pkm": "Silicobra",
+    "ndex": 843,
+    "tipo": "tierra",
+    "gen": 8
+  },
+  {
+    "pkm": "Sandaconda",
+    "ndex": 844,
+    "tipo": "tierra",
+    "gen": 8
+  },
+  {
+    "pkm": "Cramorant",
+    "ndex": 845,
+    "tipo": "volador/agua",
+    "gen": 8
+  },
+  {
+    "pkm": "Arrokuda",
+    "ndex": 846,
+    "tipo": "agua",
+    "gen": 8
+  },
+  {
+    "pkm": "Barraskewda",
+    "ndex": 847,
+    "tipo": "agua",
+    "gen": 8
+  },
+  {
+    "pkm": "Toxel",
+    "ndex": 848,
+    "tipo": "eléctrico/veneno",
+    "gen": 8
+  },
+  {
+    "pkm": "Toxtricity Amped",
+    "ndex": 849,
+    "tipo": "eléctrico/veneno",
+    "gen": 8
+  },
+  {
+    "pkm": "Sizzlipede",
+    "ndex": 850,
+    "tipo": "fuego/bicho",
+    "gen": 8
+  },
+  {
+    "pkm": "Centiskorch",
+    "ndex": 851,
+    "tipo": "fuego/bicho",
+    "gen": 8
+  },
+  {
+    "pkm": "Clobbopus",
+    "ndex": 852,
+    "tipo": "lucha",
+    "gen": 8
+  },
+  {
+    "pkm": "Grapploct",
+    "ndex": 853,
+    "tipo": "lucha",
+    "gen": 8
+  },
+  {
+    "pkm": "Sinistea",
+    "ndex": 854,
+    "tipo": "fantasma",
+    "gen": 8
+  },
+  {
+    "pkm": "Polteageist",
+    "ndex": 855,
+    "tipo": "fantasma",
+    "gen": 8
+  },
+  {
+    "pkm": "Hatenna",
+    "ndex": 856,
+    "tipo": "psíquico",
+    "gen": 8
+  },
+  {
+    "pkm": "Hattrem",
+    "ndex": 857,
+    "tipo": "psíquico",
+    "gen": 8
+  },
+  {
+    "pkm": "Hatterene",
+    "ndex": 858,
+    "tipo": "psíquico/hada",
+    "gen": 8
+  },
+  {
+    "pkm": "Impidimp",
+    "ndex": 859,
+    "tipo": "siniestro/hada",
+    "gen": 8
+  },
+  {
+    "pkm": "Morgrem",
+    "ndex": 860,
+    "tipo": "siniestro/hada",
+    "gen": 8
+  },
+  {
+    "pkm": "Grimmsnarl",
+    "ndex": 861,
+    "tipo": "siniestro/hada",
+    "gen": 8
+  },
+  {
+    "pkm": "Obstagoon",
+    "ndex": 862,
+    "tipo": "siniestro/normal",
+    "gen": 8
+  },
+  {
+    "pkm": "Perrserker",
+    "ndex": 863,
+    "tipo": "acero",
+    "gen": 8
+  },
+  {
+    "pkm": "Cursola",
+    "ndex": 864,
+    "tipo": "fantasma",
+    "gen": 8
+  },
+  {
+    "pkm": "Sirfetchd",
+    "ndex": 865,
+    "tipo": "lucha",
+    "gen": 8
+  },
+  {
+    "pkm": "Mr Rime",
+    "ndex": 866,
+    "tipo": "hielo/psíquico",
+    "gen": 8
+  },
+  {
+    "pkm": "Runerigus",
+    "ndex": 867,
+    "tipo": "tierra/fantasma",
+    "gen": 8
+  },
+  {
+    "pkm": "Milcery",
+    "ndex": 868,
+    "tipo": "hada",
+    "gen": 8
+  },
+  {
+    "pkm": "Alcremie",
+    "ndex": 869,
+    "tipo": "hada",
+    "gen": 8
+  },
+  {
+    "pkm": "Falinks",
+    "ndex": 870,
+    "tipo": "lucha",
+    "gen": 8
+  },
+  {
+    "pkm": "Pincurchin",
+    "ndex": 871,
+    "tipo": "eléctrico",
+    "gen": 8
+  },
+  {
+    "pkm": "Snom",
+    "ndex": 872,
+    "tipo": "hielo/bicho",
+    "gen": 8
+  },
+  {
+    "pkm": "Frosmoth",
+    "ndex": 873,
+    "tipo": "hielo/bicho",
+    "gen": 8
+  },
+  {
+    "pkm": "Stonjourner",
+    "ndex": 874,
+    "tipo": "roca",
+    "gen": 8
+  },
+  {
+    "pkm": "Eiscue Ice",
+    "ndex": 875,
+    "tipo": "hielo",
+    "gen": 8
+  },
+  {
+    "pkm": "Indeedee Male",
+    "ndex": 876,
+    "tipo": "psíquico/normal",
+    "gen": 8
+  },
+  {
+    "pkm": "Morpeko Full Belly",
+    "ndex": 877,
+    "tipo": "eléctrico/siniestro",
+    "gen": 8
+  },
+  {
+    "pkm": "Cufant",
+    "ndex": 878,
+    "tipo": "acero",
+    "gen": 8
+  },
+  {
+    "pkm": "Copperajah",
+    "ndex": 879,
+    "tipo": "acero",
+    "gen": 8
+  },
+  {
+    "pkm": "Dracozolt",
+    "ndex": 880,
+    "tipo": "eléctrico/dragón",
+    "gen": 8
+  },
+  {
+    "pkm": "Arctozolt",
+    "ndex": 881,
+    "tipo": "eléctrico/hielo",
+    "gen": 8
+  },
+  {
+    "pkm": "Dracovish",
+    "ndex": 882,
+    "tipo": "agua/dragón",
+    "gen": 8
+  },
+  {
+    "pkm": "Arctovish",
+    "ndex": 883,
+    "tipo": "agua/hielo",
+    "gen": 8
+  },
+  {
+    "pkm": "Duraludon",
+    "ndex": 884,
+    "tipo": "acero/dragón",
+    "gen": 8
+  },
+  {
+    "pkm": "Dreepy",
+    "ndex": 885,
+    "tipo": "dragón/fantasma",
+    "gen": 8
+  },
+  {
+    "pkm": "Drakloak",
+    "ndex": 886,
+    "tipo": "dragón/fantasma",
+    "gen": 8
+  },
+  {
+    "pkm": "Dragapult",
+    "ndex": 887,
+    "tipo": "dragón/fantasma",
+    "gen": 8
+  },
+  {
+    "pkm": "Zacian",
+    "ndex": 888,
+    "tipo": "hada",
+    "gen": 8
+  },
+  {
+    "pkm": "Zamazenta",
+    "ndex": 889,
+    "tipo": "lucha",
+    "gen": 8
+  },
+  {
+    "pkm": "Eternatus",
+    "ndex": 890,
+    "tipo": "veneno/dragón",
+    "gen": 8
+  },
+  {
+    "pkm": "Kubfu",
+    "ndex": 891,
+    "tipo": "lucha",
+    "gen": 8
+  },
+  {
+    "pkm": "Urshifu-Single-Strike",
+    "ndex": 892,
+    "tipo": "lucha/siniestro",
+    "gen": 8
+  },
+  {
+    "pkm": "Zarude",
+    "ndex": 893,
+    "tipo": "siniestro/planta",
+    "gen": 8
+  },
+  {
+    "pkm": "Regieleki",
+    "ndex": 894,
+    "tipo": "eléctrico",
+    "gen": 8
+  },
+  {
+    "pkm": "Regidrago",
+    "ndex": 895,
+    "tipo": "dragón",
+    "gen": 8
+  },
+  {
+    "pkm": "Glastrier",
+    "ndex": 896,
+    "tipo": "hielo",
+    "gen": 8
+  },
+  {
+    "pkm": "Spectrier",
+    "ndex": 897,
+    "tipo": "fantasma",
+    "gen": 8
+  },
+  {
+    "pkm": "Calyrex",
+    "ndex": 898,
+    "tipo": "psíquico/planta",
+    "gen": 8
+  },
+  {
+    "pkm": "Wyrdeer",
+    "ndex": 899,
+    "tipo": "normal/psíquico",
+    "gen": 8
+  },
+  {
+    "pkm": "Kleavor",
+    "ndex": 900,
+    "tipo": "bicho/roca",
+    "gen": 8
+  },
+  {
+    "pkm": "Ursaluna",
+    "ndex": 901,
+    "tipo": "tierra/normal",
+    "gen": 8
+  },
+  {
+    "pkm": "Basculegion Male",
+    "ndex": 902,
+    "tipo": "agua/fantasma",
+    "gen": 8
+  },
+  {
+    "pkm": "Sneasler",
+    "ndex": 903,
+    "tipo": "lucha/veneno",
+    "gen": 8
+  },
+  {
+    "pkm": "Overqwil",
+    "ndex": 904,
+    "tipo": "siniestro/veneno",
+    "gen": 8
+  },
+  {
+    "pkm": "Enamorus-Incarnate",
+    "ndex": 905,
+    "tipo": "hada/volador",
+    "gen": 8
+  },
+  {
+    "pkm": "Sprigatito",
+    "tipo": "planta",
+    "ndex": 906,
+    "gen": 9
+  },
+  {
+    "pkm": "Floragato",
+    "ndex": 907,
+    "tipo": "planta",
+    "gen": 9
+  },
+  {
+    "pkm": "Meowscarada",
+    "ndex": 908,
+    "tipo": "planta/siniestro",
+    "gen": 9
+  },
+  {
+    "pkm": "Fuecoco",
+    "tipo": "fuego",
+    "ndex": 909,
+    "gen": 9
+  },
+  {
+    "pkm": "Crocalor",
+    "ndex": 910,
+    "tipo": "fuego",
+    "gen": 9
+  },
+  {
+    "pkm": "Skeledirge",
+    "ndex": 911,
+    "tipo": "fuego/fantasma",
+    "gen": 9
+  },
+  {
+    "pkm": "Quaxly",
+    "tipo": "agua",
+    "ndex": 912,
+    "gen": 9
+  },
+  {
+    "pkm": "Quaxwell",
+    "ndex": 913,
+    "tipo": "agua",
+    "gen": 9
+  },
+  {
+    "pkm": "Quaquaval",
+    "ndex": 914,
+    "tipo": "agua/lucha",
+    "gen": 9
+  },
+  {
+    "pkm": "Lechonk",
+    "ndex": 915,
+    "tipo": "normal",
+    "gen": 9
+  },
+  {
+    "pkm": "Oinkologne Male",
+    "ndex": 916,
+    "tipo": "normal",
+    "gen": 9
+  },
+  {
+    "pkm": "Tarountula",
+    "ndex": 917,
+    "tipo": "bicho",
+    "gen": 9
+  },
+  {
+    "pkm": "Spidops",
+    "ndex": 918,
+    "tipo": "bicho",
+    "gen": 9
+  },
+  {
+    "pkm": "Nymble",
+    "ndex": 919,
+    "tipo": "bicho",
+    "gen": 9
+  },
+  {
+    "pkm": "Lokix",
+    "ndex": 920,
+    "tipo": "bicho/siniestro",
+    "gen": 9
+  },
+  {
+    "pkm": "Pawmi",
+    "ndex": 921,
+    "tipo": "eléctrico",
+    "gen": 9
+  },
+  {
+    "pkm": "Pawmo",
+    "ndex": 922,
+    "tipo": "eléctrico/lucha",
+    "gen": 9
+  },
+  {
+    "pkm": "Pawmot",
+    "ndex": 923,
+    "tipo": "eléctrico/lucha",
+    "gen": 9
+  },
+  {
+    "pkm": "Tandemaus",
+    "ndex": 924,
+    "tipo": "normal",
+    "gen": 9
+  },
+  {
+    "pkm": "Maushold Family Of Four",
+    "ndex": 925,
+    "tipo": "normal",
+    "gen": 9
+  },
+  {
+    "pkm": "Fidough",
+    "ndex": 926,
+    "tipo": "hada",
+    "gen": 9
+  },
+  {
+    "pkm": "Dachsbun",
+    "ndex": 927,
+    "tipo": "hada",
+    "gen": 9
+  },
+  {
+    "pkm": "Smoliv",
+    "ndex": 928,
+    "tipo": "planta/normal",
+    "gen": 9
+  },
+  {
+    "pkm": "Dolliv",
+    "ndex": 929,
+    "tipo": "planta/normal",
+    "gen": 9
+  },
+  {
+    "pkm": "Arboliva",
+    "ndex": 930,
+    "tipo": "planta/normal",
+    "gen": 9
+  },
+  {
+    "pkm": "Squawkabilly Green Plumage",
+    "ndex": 931,
+    "tipo": "normal/volador",
+    "gen": 9
+  },
+  {
+    "pkm": "Nacli",
+    "ndex": 932,
+    "tipo": "roca",
+    "gen": 9
+  },
+  {
+    "pkm": "Naclstack",
+    "ndex": 933,
+    "tipo": "roca",
+    "gen": 9
+  },
+  {
+    "pkm": "Garganacl",
+    "ndex": 934,
+    "tipo": "roca",
+    "gen": 9
+  },
+  {
+    "pkm": "Charcadet",
+    "ndex": 935,
+    "tipo": "fuego",
+    "gen": 9
+  },
+  {
+    "pkm": "Armarouge",
+    "ndex": 936,
+    "tipo": "fuego/psíquico",
+    "gen": 9
+  },
+  {
+    "pkm": "Ceruledge",
+    "ndex": 937,
+    "tipo": "fuego/fantasma",
+    "gen": 9
+  },
+  {
+    "pkm": "Tadbulb",
+    "ndex": 938,
+    "tipo": "eléctrico",
+    "gen": 9
+  },
+  {
+    "pkm": "Bellibolt",
+    "ndex": 939,
+    "tipo": "eléctrico",
+    "gen": 9
+  },
+  {
+    "pkm": "Wattrel",
+    "ndex": 940,
+    "tipo": "eléctrico/volador",
+    "gen": 9
+  },
+  {
+    "pkm": "Kilowattrel",
+    "ndex": 941,
+    "tipo": "eléctrico/volador",
+    "gen": 9
+  },
+  {
+    "pkm": "Maschiff",
+    "ndex": 942,
+    "tipo": "siniestro",
+    "gen": 9
+  },
+  {
+    "pkm": "Mabosstiff",
+    "ndex": 943,
+    "tipo": "siniestro",
+    "gen": 9
+  },
+  {
+    "pkm": "Shroodle",
+    "ndex": 944,
+    "tipo": "veneno/normal",
+    "gen": 9
+  },
+  {
+    "pkm": "Grafaiai",
+    "ndex": 945,
+    "tipo": "veneno/normal",
+    "gen": 9
+  },
+  {
+    "pkm": "Bramblin",
+    "ndex": 946,
+    "tipo": "planta/fantasma",
+    "gen": 9
+  },
+  {
+    "pkm": "Brambleghast",
+    "ndex": 947,
+    "tipo": "planta/fantasma",
+    "gen": 9
+  },
+  {
+    "pkm": "Toedscool",
+    "ndex": 948,
+    "tipo": "tierra/planta",
+    "gen": 9
+  },
+  {
+    "pkm": "Toedscruel",
+    "ndex": 949,
+    "tipo": "tierra/planta",
+    "gen": 9
+  },
+  {
+    "pkm": "Klawf",
+    "ndex": 950,
+    "tipo": "roca",
+    "gen": 9
+  },
+  {
+    "pkm": "Capsakid",
+    "ndex": 951,
+    "tipo": "planta",
+    "gen": 9
+  },
+  {
+    "pkm": "Scovillain",
+    "ndex": 952,
+    "tipo": "planta/fuego",
+    "gen": 9
+  },
+  {
+    "pkm": "Rellor",
+    "ndex": 953,
+    "tipo": "bicho",
+    "gen": 9
+  },
+  {
+    "pkm": "Rabsca",
+    "ndex": 954,
+    "tipo": "bicho/psíquico",
+    "gen": 9
+  },
+  {
+    "pkm": "Flittle",
+    "ndex": 955,
+    "tipo": "psíquico",
+    "gen": 9
+  },
+  {
+    "pkm": "Espathra",
+    "ndex": 956,
+    "tipo": "psíquico",
+    "gen": 9
+  },
+  {
+    "pkm": "Tinkatink",
+    "ndex": 957,
+    "tipo": "hada/acero",
+    "gen": 9
+  },
+  {
+    "pkm": "Tinkatuff",
+    "ndex": 958,
+    "tipo": "hada/acero",
+    "gen": 9
+  },
+  {
+    "pkm": "Tinkaton",
+    "ndex": 959,
+    "tipo": "hada/acero",
+    "gen": 9
+  },
+  {
+    "pkm": "Wiglett",
+    "ndex": 960,
+    "tipo": "agua",
+    "gen": 9
+  },
+  {
+    "pkm": "Wugtrio",
+    "ndex": 961,
+    "tipo": "agua",
+    "gen": 9
+  },
+  {
+    "pkm": "Bombirdier",
+    "ndex": 962,
+    "tipo": "volador/siniestro",
+    "gen": 9
+  },
+  {
+    "pkm": "Finizen",
+    "ndex": 963,
+    "tipo": "agua",
+    "gen": 9
+  },
+  {
+    "pkm": "Palafin Zero",
+    "ndex": 964,
+    "tipo": "agua",
+    "gen": 9
+  },
+  {
+    "pkm": "Varoom",
+    "ndex": 965,
+    "tipo": "acero/veneno",
+    "gen": 9
+  },
+  {
+    "pkm": "Revavroom",
+    "ndex": 966,
+    "tipo": "acero/veneno",
+    "gen": 9
+  },
+  {
+    "pkm": "Cyclizar",
+    "ndex": 967,
+    "tipo": "dragón/normal",
+    "gen": 9
+  },
+  {
+    "pkm": "Orthworm",
+    "ndex": 968,
+    "tipo": "acero",
+    "gen": 9
+  },
+  {
+    "pkm": "Glimmet",
+    "ndex": 969,
+    "tipo": "roca/veneno",
+    "gen": 9
+  },
+  {
+    "pkm": "Glimmora",
+    "ndex": 970,
+    "tipo": "roca/veneno",
+    "gen": 9
+  },
+  {
+    "pkm": "Greavard",
+    "ndex": 971,
+    "tipo": "fantasma",
+    "gen": 9
+  },
+  {
+    "pkm": "Houndstone",
+    "ndex": 972,
+    "tipo": "fantasma",
+    "gen": 9
+  },
+  {
+    "pkm": "Flamigo",
+    "ndex": 973,
+    "tipo": "volador/lucha",
+    "gen": 9
+  },
+  {
+    "pkm": "Cetoddle",
+    "ndex": 974,
+    "tipo": "hielo",
+    "gen": 9
+  },
+  {
+    "pkm": "Cetitan",
+    "ndex": 975,
+    "tipo": "hielo",
+    "gen": 9
+  },
+  {
+    "pkm": "Veluza",
+    "ndex": 976,
+    "tipo": "agua/psíquico",
+    "gen": 9
+  },
+  {
+    "pkm": "Dondozo",
+    "ndex": 977,
+    "tipo": "agua",
+    "gen": 9
+  },
+  {
+    "pkm": "Tatsugiri Curly",
+    "ndex": 978,
+    "tipo": "dragón/agua",
+    "gen": 9
+  },
+  {
+    "pkm": "Annihilape",
+    "ndex": 979,
+    "tipo": "lucha/fantasma",
+    "gen": 9
+  },
+  {
+    "pkm": "Clodsire",
+    "ndex": 980,
+    "tipo": "veneno/tierra",
+    "gen": 9
+  },
+  {
+    "pkm": "Farigiraf",
+    "ndex": 981,
+    "tipo": "normal/psíquico",
+    "gen": 9
+  },
+  {
+    "pkm": "Dudunsparce Two Segment",
+    "ndex": 982,
+    "tipo": "normal",
+    "gen": 9
+  },
+  {
+    "pkm": "Kingambit",
+    "ndex": 983,
+    "tipo": "siniestro/acero",
+    "gen": 9
+  },
+  {
+    "pkm": "Great Tusk",
+    "ndex": 984,
+    "tipo": "tierra/lucha",
+    "gen": 9
+  },
+  {
+    "pkm": "Scream Tail",
+    "ndex": 985,
+    "tipo": "hada/psíquico",
+    "gen": 9
+  },
+  {
+    "pkm": "Brute Bonnet",
+    "ndex": 986,
+    "tipo": "planta/siniestro",
+    "gen": 9
+  },
+  {
+    "pkm": "Flutter Mane",
+    "ndex": 987,
+    "tipo": "fantasma/hada",
+    "gen": 9
+  },
+  {
+    "pkm": "Slither Wing",
+    "ndex": 988,
+    "tipo": "bicho/lucha",
+    "gen": 9
+  },
+  {
+    "pkm": "Sandy Shocks",
+    "ndex": 989,
+    "tipo": "eléctrico/tierra",
+    "gen": 9
+  },
+  {
+    "pkm": "Iron Treads",
+    "ndex": 990,
+    "tipo": "tierra/acero",
+    "gen": 9
+  },
+  {
+    "pkm": "Iron Bundle",
+    "ndex": 991,
+    "tipo": "hielo/agua",
+    "gen": 9
+  },
+  {
+    "pkm": "Iron Hands",
+    "ndex": 992,
+    "tipo": "lucha/eléctrico",
+    "gen": 9
+  },
+  {
+    "pkm": "Iron Jugulis",
+    "ndex": 993,
+    "tipo": "siniestro/volador",
+    "gen": 9
+  },
+  {
+    "pkm": "Iron Moth",
+    "ndex": 994,
+    "tipo": "fuego/veneno",
+    "gen": 9
+  },
+  {
+    "pkm": "Iron Thorns",
+    "ndex": 995,
+    "tipo": "roca/eléctrico",
+    "gen": 9
+  },
+  {
+    "pkm": "Frigibax",
+    "ndex": 996,
+    "tipo": "dragón/hielo",
+    "gen": 9
+  },
+  {
+    "pkm": "Arctibax",
+    "ndex": 997,
+    "tipo": "dragón/hielo",
+    "gen": 9
+  },
+  {
+    "pkm": "Baxcalibur",
+    "ndex": 998,
+    "tipo": "dragón/hielo",
+    "gen": 9
+  },
+  {
+    "pkm": "Gimmighoul",
+    "ndex": 999,
+    "tipo": "fantasma",
+    "gen": 9
+  },
+  {
+    "pkm": "Gholdengo",
+    "ndex": 1000,
+    "tipo": "acero/fantasma",
+    "gen": 9
+  },
+  {
+    "pkm": "Wo-Chien",
+    "ndex": 1001,
+    "tipo": "siniestro/planta",
+    "gen": 9
+  },
+  {
+    "pkm": "Chien-Pao",
+    "ndex": 1002,
+    "tipo": "siniestro/hielo",
+    "gen": 9
+  },
+  {
+    "pkm": "Ting-Lu",
+    "ndex": 1003,
+    "tipo": "siniestro/tierra",
+    "gen": 9
+  },
+  {
+    "pkm": "Chi-Yu",
+    "ndex": 1004,
+    "tipo": "siniestro/fuego",
+    "gen": 9
+  },
+  {
+    "pkm": "Roaring Moon",
+    "ndex": 1005,
+    "tipo": "dragón/siniestro",
+    "gen": 9
+  },
+  {
+    "pkm": "Iron Valiant",
+    "ndex": 1006,
+    "tipo": "hada/lucha",
+    "gen": 9
+  },
+  {
+    "pkm": "Koraidon",
+    "ndex": 1007,
+    "tipo": "lucha/dragón",
+    "gen": 9
+  },
+  {
+    "pkm": "Miraidon",
+    "ndex": 1008,
+    "tipo": "eléctrico/dragón",
+    "gen": 9
+  },
+  {
+    "pkm": "Walking Wake",
+    "ndex": 1009,
+    "tipo": "agua/dragón",
+    "gen": 9
+  },
+  {
+    "pkm": "Iron Leaves",
+    "ndex": 1010,
+    "tipo": "planta/psíquico",
+    "gen": 9
+  },
+  {
+    "pkm": "Dipplin",
+    "ndex": 1011,
+    "tipo": "planta/dragón",
+    "gen": 9
+  },
+  {
+    "pkm": "Poltchageist",
+    "ndex": 1012,
+    "tipo": "planta/fantasma",
+    "gen": 9
+  },
+  {
+    "pkm": "Sinistcha",
+    "ndex": 1013,
+    "tipo": "planta/fantasma",
+    "gen": 9
+  },
+  {
+    "pkm": "Okidogi",
+    "ndex": 1014,
+    "tipo": "veneno/lucha",
+    "gen": 9
+  },
+  {
+    "pkm": "Munkidori",
+    "ndex": 1015,
+    "tipo": "veneno/psíquico",
+    "gen": 9
+  },
+  {
+    "pkm": "Fezandipiti",
+    "ndex": 1016,
+    "tipo": "veneno/hada",
+    "gen": 9
+  },
+  {
+    "pkm": "Ogerpon",
+    "ndex": 1017,
+    "tipo": "planta",
+    "gen": 9
+  },
+  {
+    "pkm": "Terapagos",
+    "ndex": 1024,
+    "tipo": "normal",
+    "gen": 9
+  },
+  {
+    "pkm": "Pecharunt",
+    "ndex": 1025,
+    "tipo": "veneno/fantasma",
+    "gen": 9
+  },
+  {
+    "pkm": "Deoxys Attack",
+    "ndex": 10001,
+    "tipo": "psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Deoxys Defense",
+    "ndex": 10002,
+    "tipo": "psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Deoxys Speed",
+    "ndex": 10003,
+    "tipo": "psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Wormadam Sandy",
+    "ndex": 10004,
+    "tipo": "bicho/tierra",
+    "gen": 0
+  },
+  {
+    "pkm": "Wormadam Trash",
+    "ndex": 10005,
+    "tipo": "bicho/acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Shaymin Sky",
+    "ndex": 10006,
+    "tipo": "planta/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Giratina Origin",
+    "ndex": 10007,
+    "tipo": "fantasma/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Rotom Heat",
+    "ndex": 10008,
+    "tipo": "eléctrico/fuego",
+    "gen": 0
+  },
+  {
+    "pkm": "Rotom Wash",
+    "ndex": 10009,
+    "tipo": "eléctrico/agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Rotom Frost",
+    "ndex": 10010,
+    "tipo": "eléctrico/hielo",
+    "gen": 0
+  },
+  {
+    "pkm": "Rotom Fan",
+    "ndex": 10011,
+    "tipo": "eléctrico/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Rotom Mow",
+    "ndex": 10012,
+    "tipo": "eléctrico/planta",
+    "gen": 0
+  },
+  {
+    "pkm": "Castform Sunny",
+    "ndex": 10013,
+    "tipo": "fuego",
+    "gen": 0
+  },
+  {
+    "pkm": "Castform Rainy",
+    "ndex": 10014,
+    "tipo": "agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Castform Snowy",
+    "ndex": 10015,
+    "tipo": "hielo",
+    "gen": 0
+  },
+  {
+    "pkm": "Basculin Blue Striped",
+    "ndex": 10016,
+    "tipo": "agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Darmanitan Zen",
+    "ndex": 10017,
+    "tipo": "fuego/psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Meloetta Pirouette",
+    "ndex": 10018,
+    "tipo": "normal/lucha",
+    "gen": 0
+  },
+  {
+    "pkm": "Tornadus Therian",
+    "ndex": 10019,
+    "tipo": "volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Thundurus Therian",
+    "ndex": 10020,
+    "tipo": "eléctrico/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Landorus Therian",
+    "ndex": 10021,
+    "tipo": "tierra/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Kyurem Black",
+    "ndex": 10022,
+    "tipo": "dragón/hielo",
+    "gen": 0
+  },
+  {
+    "pkm": "Kyurem White",
+    "ndex": 10023,
+    "tipo": "dragón/hielo",
+    "gen": 0
+  },
+  {
+    "pkm": "Keldeo Resolute",
+    "ndex": 10024,
+    "tipo": "agua/lucha",
+    "gen": 0
+  },
+  {
+    "pkm": "Meowstic Female",
+    "ndex": 10025,
+    "tipo": "psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Aegislash Blade",
+    "ndex": 10026,
+    "tipo": "acero/fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Pumpkaboo Small",
+    "ndex": 10027,
+    "tipo": "fantasma/planta",
+    "gen": 0
+  },
+  {
+    "pkm": "Pumpkaboo Large",
+    "ndex": 10028,
+    "tipo": "fantasma/planta",
+    "gen": 0
+  },
+  {
+    "pkm": "Pumpkaboo Super",
+    "ndex": 10029,
+    "tipo": "fantasma/planta",
+    "gen": 0
+  },
+  {
+    "pkm": "Gourgeist Small",
+    "ndex": 10030,
+    "tipo": "fantasma/planta",
+    "gen": 0
+  },
+  {
+    "pkm": "Gourgeist Large",
+    "ndex": 10031,
+    "tipo": "fantasma/planta",
+    "gen": 0
+  },
+  {
+    "pkm": "Gourgeist Super",
+    "ndex": 10032,
+    "tipo": "fantasma/planta",
+    "gen": 0
+  },
+  {
+    "pkm": "Venusaur Mega",
+    "ndex": 10033,
+    "tipo": "planta/veneno",
+    "gen": 0
+  },
+  {
+    "pkm": "Charizard Mega X",
+    "ndex": 10034,
+    "tipo": "fuego/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Charizard Mega Y",
+    "ndex": 10035,
+    "tipo": "fuego/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Blastoise Mega",
+    "ndex": 10036,
+    "tipo": "agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Alakazam Mega",
+    "ndex": 10037,
+    "tipo": "psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Gengar Mega",
+    "ndex": 10038,
+    "tipo": "fantasma/veneno",
+    "gen": 0
+  },
+  {
+    "pkm": "Kangaskhan Mega",
+    "ndex": 10039,
+    "tipo": "normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Pinsir Mega",
+    "ndex": 10040,
+    "tipo": "bicho/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Gyarados Mega",
+    "ndex": 10041,
+    "tipo": "agua/siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Aerodactyl Mega",
+    "ndex": 10042,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Mewtwo Mega X",
+    "ndex": 10043,
+    "tipo": "psíquico/lucha",
+    "gen": 0
+  },
+  {
+    "pkm": "Mewtwo Mega Y",
+    "ndex": 10044,
+    "tipo": "psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Ampharos Mega",
+    "ndex": 10045,
+    "tipo": "eléctrico/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Scizor Mega",
+    "ndex": 10046,
+    "tipo": "bicho/acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Heracross Mega",
+    "ndex": 10047,
+    "tipo": "bicho/lucha",
+    "gen": 0
+  },
+  {
+    "pkm": "Houndoom Mega",
+    "ndex": 10048,
+    "tipo": "siniestro/fuego",
+    "gen": 0
+  },
+  {
+    "pkm": "Tyranitar Mega",
+    "ndex": 10049,
+    "tipo": "roca/siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Blaziken Mega",
+    "ndex": 10050,
+    "tipo": "fuego/lucha",
+    "gen": 0
+  },
+  {
+    "pkm": "Gardevoir Mega",
+    "ndex": 10051,
+    "tipo": "psíquico/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Mawile Mega",
+    "ndex": 10052,
+    "tipo": "acero/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Aggron Mega",
+    "ndex": 10053,
+    "tipo": "acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Medicham Mega",
+    "ndex": 10054,
+    "tipo": "lucha/psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Manectric Mega",
+    "ndex": 10055,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Banette Mega",
+    "ndex": 10056,
+    "tipo": "fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Absol Mega",
+    "ndex": 10057,
+    "tipo": "siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Garchomp Mega",
+    "ndex": 10058,
+    "tipo": "dragón/tierra",
+    "gen": 0
+  },
+  {
+    "pkm": "Lucario Mega",
+    "ndex": 10059,
+    "tipo": "lucha/acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Abomasnow Mega",
+    "ndex": 10060,
+    "tipo": "planta/hielo",
+    "gen": 0
+  },
+  {
+    "pkm": "Floette Eternal",
+    "ndex": 10061,
+    "tipo": "hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Latias Mega",
+    "ndex": 10062,
+    "tipo": "dragón/psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Latios Mega",
+    "ndex": 10063,
+    "tipo": "dragón/psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Swampert Mega",
+    "ndex": 10064,
+    "tipo": "agua/tierra",
+    "gen": 0
+  },
+  {
+    "pkm": "Sceptile Mega",
+    "ndex": 10065,
+    "tipo": "planta/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Sableye Mega",
+    "ndex": 10066,
+    "tipo": "siniestro/fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Altaria Mega",
+    "ndex": 10067,
+    "tipo": "dragón/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Gallade Mega",
+    "ndex": 10068,
+    "tipo": "psíquico/lucha",
+    "gen": 0
+  },
+  {
+    "pkm": "Audino Mega",
+    "ndex": 10069,
+    "tipo": "normal/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Sharpedo Mega",
+    "ndex": 10070,
+    "tipo": "agua/siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Slowbro Mega",
+    "ndex": 10071,
+    "tipo": "agua/psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Steelix Mega",
+    "ndex": 10072,
+    "tipo": "acero/tierra",
+    "gen": 0
+  },
+  {
+    "pkm": "Pidgeot Mega",
+    "ndex": 10073,
+    "tipo": "normal/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Glalie Mega",
+    "ndex": 10074,
+    "tipo": "hielo",
+    "gen": 0
+  },
+  {
+    "pkm": "Diancie Mega",
+    "ndex": 10075,
+    "tipo": "roca/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Metagross Mega",
+    "ndex": 10076,
+    "tipo": "acero/psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Kyogre Primal",
+    "ndex": 10077,
+    "tipo": "agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Groudon Primal",
+    "ndex": 10078,
+    "tipo": "tierra/fuego",
+    "gen": 0
+  },
+  {
+    "pkm": "Rayquaza Mega",
+    "ndex": 10079,
+    "tipo": "dragón/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Rock Star",
+    "ndex": 10080,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Belle",
+    "ndex": 10081,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Pop Star",
+    "ndex": 10082,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Phd",
+    "ndex": 10083,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Libre",
+    "ndex": 10084,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Cosplay",
+    "ndex": 10085,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Hoopa Unbound",
+    "ndex": 10086,
+    "tipo": "psíquico/siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Camerupt Mega",
+    "ndex": 10087,
+    "tipo": "fuego/tierra",
+    "gen": 0
+  },
+  {
+    "pkm": "Lopunny Mega",
+    "ndex": 10088,
+    "tipo": "normal/lucha",
+    "gen": 0
+  },
+  {
+    "pkm": "Salamence Mega",
+    "ndex": 10089,
+    "tipo": "dragón/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Beedrill Mega",
+    "ndex": 10090,
+    "tipo": "bicho/veneno",
+    "gen": 0
+  },
+  {
+    "pkm": "Rattata Alola",
+    "ndex": 10091,
+    "tipo": "siniestro/normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Raticate Alola",
+    "ndex": 10092,
+    "tipo": "siniestro/normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Raticate Totem Alola",
+    "ndex": 10093,
+    "tipo": "siniestro/normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Original Cap",
+    "ndex": 10094,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Hoenn Cap",
+    "ndex": 10095,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Sinnoh Cap",
+    "ndex": 10096,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Unova Cap",
+    "ndex": 10097,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Kalos Cap",
+    "ndex": 10098,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Alola Cap",
+    "ndex": 10099,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Raichu Alola",
+    "ndex": 10100,
+    "tipo": "eléctrico/psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Sandshrew Alola",
+    "ndex": 10101,
+    "tipo": "hielo/acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Sandslash Alola",
+    "ndex": 10102,
+    "tipo": "hielo/acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Vulpix Alola",
+    "ndex": 10103,
+    "tipo": "hielo",
+    "gen": 0
+  },
+  {
+    "pkm": "Ninetales Alola",
+    "ndex": 10104,
+    "tipo": "hielo/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Diglett Alola",
+    "ndex": 10105,
+    "tipo": "tierra/acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Dugtrio Alola",
+    "ndex": 10106,
+    "tipo": "tierra/acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Meowth Alola",
+    "ndex": 10107,
+    "tipo": "siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Persian Alola",
+    "ndex": 10108,
+    "tipo": "siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Geodude Alola",
+    "ndex": 10109,
+    "tipo": "roca/eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Graveler Alola",
+    "ndex": 10110,
+    "tipo": "roca/eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Golem Alola",
+    "ndex": 10111,
+    "tipo": "roca/eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Grimer Alola",
+    "ndex": 10112,
+    "tipo": "veneno/siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Muk Alola",
+    "ndex": 10113,
+    "tipo": "veneno/siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Exeggutor Alola",
+    "ndex": 10114,
+    "tipo": "planta/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Marowak Alola",
+    "ndex": 10115,
+    "tipo": "fuego/fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Greninja Battle Bond",
+    "ndex": 10116,
+    "tipo": "agua/siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Greninja Ash",
+    "ndex": 10117,
+    "tipo": "agua/siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Zygarde 10 Power Construct",
+    "ndex": 10118,
+    "tipo": "dragón/tierra",
+    "gen": 0
+  },
+  {
+    "pkm": "Zygarde 50 Power Construct",
+    "ndex": 10119,
+    "tipo": "dragón/tierra",
+    "gen": 0
+  },
+  {
+    "pkm": "Zygarde Complete",
+    "ndex": 10120,
+    "tipo": "dragón/tierra",
+    "gen": 0
+  },
+  {
+    "pkm": "Gumshoos Totem",
+    "ndex": 10121,
+    "tipo": "normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Vikavolt Totem",
+    "ndex": 10122,
+    "tipo": "bicho/eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Oricorio Pom Pom",
+    "ndex": 10123,
+    "tipo": "eléctrico/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Oricorio Pau",
+    "ndex": 10124,
+    "tipo": "psíquico/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Oricorio Sensu",
+    "ndex": 10125,
+    "tipo": "fantasma/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Lycanroc Midnight",
+    "ndex": 10126,
+    "tipo": "roca",
+    "gen": 0
+  },
+  {
+    "pkm": "Wishiwashi School",
+    "ndex": 10127,
+    "tipo": "agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Lurantis Totem",
+    "ndex": 10128,
+    "tipo": "planta",
+    "gen": 0
+  },
+  {
+    "pkm": "Salazzle Totem",
+    "ndex": 10129,
+    "tipo": "veneno/fuego",
+    "gen": 0
+  },
+  {
+    "pkm": "Minior Orange Meteor",
+    "ndex": 10130,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Minior Yellow Meteor",
+    "ndex": 10131,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Minior Green Meteor",
+    "ndex": 10132,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Minior Blue Meteor",
+    "ndex": 10133,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Minior Indigo Meteor",
+    "ndex": 10134,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Minior Violet Meteor",
+    "ndex": 10135,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Minior Red",
+    "ndex": 10136,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Minior Orange",
+    "ndex": 10137,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Minior Yellow",
+    "ndex": 10138,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Minior Green",
+    "ndex": 10139,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Minior Blue",
+    "ndex": 10140,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Minior Indigo",
+    "ndex": 10141,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Minior Violet",
+    "ndex": 10142,
+    "tipo": "roca/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Mimikyu Busted",
+    "ndex": 10143,
+    "tipo": "fantasma/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Mimikyu Totem Disguised",
+    "ndex": 10144,
+    "tipo": "fantasma/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Mimikyu Totem Busted",
+    "ndex": 10145,
+    "tipo": "fantasma/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Kommo O Totem",
+    "ndex": 10146,
+    "tipo": "dragón/lucha",
+    "gen": 0
+  },
+  {
+    "pkm": "Magearna Original",
+    "ndex": 10147,
+    "tipo": "acero/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Partner Cap",
+    "ndex": 10148,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Marowak Totem",
+    "ndex": 10149,
+    "tipo": "fuego/fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Ribombee Totem",
+    "ndex": 10150,
+    "tipo": "bicho/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Rockruff Own Tempo",
+    "ndex": 10151,
+    "tipo": "roca",
+    "gen": 0
+  },
+  {
+    "pkm": "Lycanroc Dusk",
+    "ndex": 10152,
+    "tipo": "roca",
+    "gen": 0
+  },
+  {
+    "pkm": "Araquanid Totem",
+    "ndex": 10153,
+    "tipo": "agua/bicho",
+    "gen": 0
+  },
+  {
+    "pkm": "Togedemaru Totem",
+    "ndex": 10154,
+    "tipo": "eléctrico/acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Necrozma Dusk",
+    "ndex": 10155,
+    "tipo": "psíquico/acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Necrozma Dawn",
+    "ndex": 10156,
+    "tipo": "psíquico/fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Necrozma Ultra",
+    "ndex": 10157,
+    "tipo": "psíquico/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Starter",
+    "ndex": 10158,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Eevee Starter",
+    "ndex": 10159,
+    "tipo": "normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu World Cap",
+    "ndex": 10160,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Meowth Galar",
+    "ndex": 10161,
+    "tipo": "acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Ponyta Galar",
+    "ndex": 10162,
+    "tipo": "psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Rapidash Galar",
+    "ndex": 10163,
+    "tipo": "psíquico/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Slowpoke Galar",
+    "ndex": 10164,
+    "tipo": "psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Slowbro Galar",
+    "ndex": 10165,
+    "tipo": "veneno/psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Farfetchd Galar",
+    "ndex": 10166,
+    "tipo": "lucha",
+    "gen": 0
+  },
+  {
+    "pkm": "Weezing Galar",
+    "ndex": 10167,
+    "tipo": "veneno/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Mr Mime Galar",
+    "ndex": 10168,
+    "tipo": "hielo/psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Articuno Galar",
+    "ndex": 10169,
+    "tipo": "psíquico/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Zapdos Galar",
+    "ndex": 10170,
+    "tipo": "lucha/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Moltres Galar",
+    "ndex": 10171,
+    "tipo": "siniestro/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Slowking Galar",
+    "ndex": 10172,
+    "tipo": "veneno/psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Corsola Galar",
+    "ndex": 10173,
+    "tipo": "fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Zigzagoon Galar",
+    "ndex": 10174,
+    "tipo": "siniestro/normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Linoone Galar",
+    "ndex": 10175,
+    "tipo": "siniestro/normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Darumaka Galar",
+    "ndex": 10176,
+    "tipo": "hielo",
+    "gen": 0
+  },
+  {
+    "pkm": "Darmanitan Galar Standard",
+    "ndex": 10177,
+    "tipo": "hielo",
+    "gen": 0
+  },
+  {
+    "pkm": "Darmanitan Galar Zen",
+    "ndex": 10178,
+    "tipo": "hielo/fuego",
+    "gen": 0
+  },
+  {
+    "pkm": "Yamask Galar",
+    "ndex": 10179,
+    "tipo": "tierra/fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Stunfisk Galar",
+    "ndex": 10180,
+    "tipo": "tierra/acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Zygarde 10",
+    "ndex": 10181,
+    "tipo": "dragón/tierra",
+    "gen": 0
+  },
+  {
+    "pkm": "Cramorant Gulping",
+    "ndex": 10182,
+    "tipo": "volador/agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Cramorant Gorging",
+    "ndex": 10183,
+    "tipo": "volador/agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Toxtricity Low Key",
+    "ndex": 10184,
+    "tipo": "eléctrico/veneno",
+    "gen": 0
+  },
+  {
+    "pkm": "Eiscue Noice",
+    "ndex": 10185,
+    "tipo": "hielo",
+    "gen": 0
+  },
+  {
+    "pkm": "Indeedee Female",
+    "ndex": 10186,
+    "tipo": "psíquico/normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Morpeko Hangry",
+    "ndex": 10187,
+    "tipo": "eléctrico/siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Zacian Crowned",
+    "ndex": 10188,
+    "tipo": "hada/acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Zamazenta Crowned",
+    "ndex": 10189,
+    "tipo": "lucha/acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Eternatus Eternamax",
+    "ndex": 10190,
+    "tipo": "veneno/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Urshifu Rapid Strike",
+    "ndex": 10191,
+    "tipo": "lucha/agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Zarude Dada",
+    "ndex": 10192,
+    "tipo": "siniestro/planta",
+    "gen": 0
+  },
+  {
+    "pkm": "Calyrex Ice",
+    "ndex": 10193,
+    "tipo": "psíquico/hielo",
+    "gen": 0
+  },
+  {
+    "pkm": "Calyrex Shadow",
+    "ndex": 10194,
+    "tipo": "psíquico/fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Venusaur Gmax",
+    "ndex": 10195,
+    "tipo": "planta/veneno",
+    "gen": 0
+  },
+  {
+    "pkm": "Charizard Gmax",
+    "ndex": 10196,
+    "tipo": "fuego/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Blastoise Gmax",
+    "ndex": 10197,
+    "tipo": "agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Butterfree Gmax",
+    "ndex": 10198,
+    "tipo": "bicho/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Pikachu Gmax",
+    "ndex": 10199,
+    "tipo": "eléctrico",
+    "gen": 0
+  },
+  {
+    "pkm": "Meowth Gmax",
+    "ndex": 10200,
+    "tipo": "normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Machamp Gmax",
+    "ndex": 10201,
+    "tipo": "lucha",
+    "gen": 0
+  },
+  {
+    "pkm": "Gengar Gmax",
+    "ndex": 10202,
+    "tipo": "fantasma/veneno",
+    "gen": 0
+  },
+  {
+    "pkm": "Kingler Gmax",
+    "ndex": 10203,
+    "tipo": "agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Lapras Gmax",
+    "ndex": 10204,
+    "tipo": "agua/hielo",
+    "gen": 0
+  },
+  {
+    "pkm": "Eevee Gmax",
+    "ndex": 10205,
+    "tipo": "normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Snorlax Gmax",
+    "ndex": 10206,
+    "tipo": "normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Garbodor Gmax",
+    "ndex": 10207,
+    "tipo": "veneno",
+    "gen": 0
+  },
+  {
+    "pkm": "Melmetal Gmax",
+    "ndex": 10208,
+    "tipo": "acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Rillaboom Gmax",
+    "ndex": 10209,
+    "tipo": "planta",
+    "gen": 0
+  },
+  {
+    "pkm": "Cinderace Gmax",
+    "ndex": 10210,
+    "tipo": "fuego",
+    "gen": 0
+  },
+  {
+    "pkm": "Inteleon Gmax",
+    "ndex": 10211,
+    "tipo": "agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Corviknight Gmax",
+    "ndex": 10212,
+    "tipo": "volador/acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Orbeetle Gmax",
+    "ndex": 10213,
+    "tipo": "bicho/psíquico",
+    "gen": 0
+  },
+  {
+    "pkm": "Drednaw Gmax",
+    "ndex": 10214,
+    "tipo": "agua/roca",
+    "gen": 0
+  },
+  {
+    "pkm": "Coalossal Gmax",
+    "ndex": 10215,
+    "tipo": "roca/fuego",
+    "gen": 0
+  },
+  {
+    "pkm": "Flapple Gmax",
+    "ndex": 10216,
+    "tipo": "planta/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Appletun Gmax",
+    "ndex": 10217,
+    "tipo": "planta/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Sandaconda Gmax",
+    "ndex": 10218,
+    "tipo": "tierra",
+    "gen": 0
+  },
+  {
+    "pkm": "Toxtricity Amped Gmax",
+    "ndex": 10219,
+    "tipo": "eléctrico/veneno",
+    "gen": 0
+  },
+  {
+    "pkm": "Centiskorch Gmax",
+    "ndex": 10220,
+    "tipo": "fuego/bicho",
+    "gen": 0
+  },
+  {
+    "pkm": "Hatterene Gmax",
+    "ndex": 10221,
+    "tipo": "psíquico/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Grimmsnarl Gmax",
+    "ndex": 10222,
+    "tipo": "siniestro/hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Alcremie Gmax",
+    "ndex": 10223,
+    "tipo": "hada",
+    "gen": 0
+  },
+  {
+    "pkm": "Copperajah Gmax",
+    "ndex": 10224,
+    "tipo": "acero",
+    "gen": 0
+  },
+  {
+    "pkm": "Duraludon Gmax",
+    "ndex": 10225,
+    "tipo": "acero/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Urshifu Single Strike Gmax",
+    "ndex": 10226,
+    "tipo": "lucha/siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Urshifu Rapid Strike Gmax",
+    "ndex": 10227,
+    "tipo": "lucha/agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Toxtricity Low Key Gmax",
+    "ndex": 10228,
+    "tipo": "eléctrico/veneno",
+    "gen": 0
+  },
+  {
+    "pkm": "Growlithe Hisui",
+    "ndex": 10229,
+    "tipo": "fuego/roca",
+    "gen": 0
+  },
+  {
+    "pkm": "Arcanine Hisui",
+    "ndex": 10230,
+    "tipo": "fuego/roca",
+    "gen": 0
+  },
+  {
+    "pkm": "Voltorb Hisui",
+    "ndex": 10231,
+    "tipo": "eléctrico/planta",
+    "gen": 0
+  },
+  {
+    "pkm": "Electrode Hisui",
+    "ndex": 10232,
+    "tipo": "eléctrico/planta",
+    "gen": 0
+  },
+  {
+    "pkm": "Typhlosion Hisui",
+    "ndex": 10233,
+    "tipo": "fuego/fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Qwilfish Hisui",
+    "ndex": 10234,
+    "tipo": "siniestro/veneno",
+    "gen": 0
+  },
+  {
+    "pkm": "Sneasel Hisui",
+    "ndex": 10235,
+    "tipo": "lucha/veneno",
+    "gen": 0
+  },
+  {
+    "pkm": "Samurott Hisui",
+    "ndex": 10236,
+    "tipo": "agua/siniestro",
+    "gen": 0
+  },
+  {
+    "pkm": "Lilligant Hisui",
+    "ndex": 10237,
+    "tipo": "planta/lucha",
+    "gen": 0
+  },
+  {
+    "pkm": "Zorua Hisui",
+    "ndex": 10238,
+    "tipo": "normal/fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Zoroark Hisui",
+    "ndex": 10239,
+    "tipo": "normal/fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Braviary Hisui",
+    "ndex": 10240,
+    "tipo": "psíquico/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Sliggoo Hisui",
+    "ndex": 10241,
+    "tipo": "acero/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Goodra Hisui",
+    "ndex": 10242,
+    "tipo": "acero/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Avalugg Hisui",
+    "ndex": 10243,
+    "tipo": "hielo/roca",
+    "gen": 0
+  },
+  {
+    "pkm": "Decidueye Hisui",
+    "ndex": 10244,
+    "tipo": "planta/lucha",
+    "gen": 0
+  },
+  {
+    "pkm": "Dialga Origin",
+    "ndex": 10245,
+    "tipo": "acero/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Palkia Origin",
+    "ndex": 10246,
+    "tipo": "agua/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Basculin White Striped",
+    "ndex": 10247,
+    "tipo": "agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Basculegion Female",
+    "ndex": 10248,
+    "tipo": "agua/fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Enamorus Therian",
+    "ndex": 10249,
+    "tipo": "hada/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Tauros Paldea Combat Breed",
+    "ndex": 10250,
+    "tipo": "lucha",
+    "gen": 0
+  },
+  {
+    "pkm": "Tauros Paldea Blaze Breed",
+    "ndex": 10251,
+    "tipo": "lucha/fuego",
+    "gen": 0
+  },
+  {
+    "pkm": "Tauros Paldea Aqua Breed",
+    "ndex": 10252,
+    "tipo": "lucha/agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Wooper Paldea",
+    "ndex": 10253,
+    "tipo": "veneno/tierra",
+    "gen": 0
+  },
+  {
+    "pkm": "Oinkologne Female",
+    "ndex": 10254,
+    "tipo": "normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Dudunsparce Three Segment",
+    "ndex": 10255,
+    "tipo": "normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Palafin Hero",
+    "ndex": 10256,
+    "tipo": "agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Maushold Family Of Three",
+    "ndex": 10257,
+    "tipo": "normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Tatsugiri Droopy",
+    "ndex": 10258,
+    "tipo": "dragón/agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Tatsugiri Stretchy",
+    "ndex": 10259,
+    "tipo": "dragón/agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Squawkabilly Blue Plumage",
+    "ndex": 10260,
+    "tipo": "normal/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Squawkabilly Yellow Plumage",
+    "ndex": 10261,
+    "tipo": "normal/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Squawkabilly White Plumage",
+    "ndex": 10262,
+    "tipo": "normal/volador",
+    "gen": 0
+  },
+  {
+    "pkm": "Gimmighoul Roaming",
+    "ndex": 10263,
+    "tipo": "fantasma",
+    "gen": 0
+  },
+  {
+    "pkm": "Koraidon Limited Build",
+    "ndex": 10264,
+    "tipo": "lucha/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Koraidon Sprinting Build",
+    "ndex": 10265,
+    "tipo": "lucha/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Koraidon Swimming Build",
+    "ndex": 10266,
+    "tipo": "lucha/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Koraidon Gliding Build",
+    "ndex": 10267,
+    "tipo": "lucha/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Miraidon Low Power Mode",
+    "ndex": 10268,
+    "tipo": "eléctrico/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Miraidon Drive Mode",
+    "ndex": 10269,
+    "tipo": "eléctrico/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Miraidon Aquatic Mode",
+    "ndex": 10270,
+    "tipo": "eléctrico/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Miraidon Glide Mode",
+    "ndex": 10271,
+    "tipo": "eléctrico/dragón",
+    "gen": 0
+  },
+  {
+    "pkm": "Ursaluna Bloodmoon",
+    "ndex": 10272,
+    "tipo": "tierra/normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Ogerpon Wellspring Mask",
+    "ndex": 10273,
+    "tipo": "planta/agua",
+    "gen": 0
+  },
+  {
+    "pkm": "Ogerpon Hearthflame Mask",
+    "ndex": 10274,
+    "tipo": "planta/fuego",
+    "gen": 0
+  },
+  {
+    "pkm": "Ogerpon Cornerstone Mask",
+    "ndex": 10275,
+    "tipo": "planta/roca",
+    "gen": 0
+  },
+  {
+    "pkm": "Terapagos Terastal",
+    "ndex": 10276,
+    "tipo": "normal",
+    "gen": 0
+  },
+  {
+    "pkm": "Terapagos Stellar",
+    "ndex": 10277,
+    "tipo": "normal",
+    "gen": 0
+  }
+]
