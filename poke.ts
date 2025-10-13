@@ -39,8 +39,6 @@ function capitalizarNombre(nombre: string): string {
     .join(" ");
 }
 
-
-
 function guardarPokes() {
   fs.writeFileSync(pokemons, JSON.stringify(starters, null, 2));
 }
@@ -174,7 +172,6 @@ app.get("/pokes/:param", async (req: Request, res: Response) => {
   res.json(starter);
 });
 
-
 app.get("/pokes", (req: Request, res: Response) => {
   res.json(starters);
 });
@@ -182,8 +179,6 @@ app.get("/pokes", (req: Request, res: Response) => {
 app.get("/", (req: Request, res: Response) => {
   res.sendFile(__dirname + "/index.html");
 });
-
-
 
 app.listen(port, () => {
   console.log(`Servidor corriendo en http://localhost:${port}`);
