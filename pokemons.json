@@ -2310,7 +2310,7 @@
     "gen": 3
   },
   {
-    "pkm": "Deoxys-Normal",
+    "pkm": "Deoxys",
     "ndex": 386,
     "tipo": "psíquico",
     "gen": 3
@@ -2472,7 +2472,7 @@
     "gen": 4
   },
   {
-    "pkm": "Wormadam Plant",
+    "pkm": "Wormadam",
     "ndex": 413,
     "tipo": "bicho/planta",
     "gen": 4
@@ -2916,7 +2916,7 @@
     "gen": 4
   },
   {
-    "pkm": "Giratina-Altered",
+    "pkm": "Giratina",
     "ndex": 487,
     "tipo": "fantasma/dragón",
     "gen": 4
@@ -3294,7 +3294,7 @@
     "gen": 5
   },
   {
-    "pkm": "Basculin Red Striped",
+    "pkm": "Basculin",
     "ndex": 550,
     "tipo": "agua",
     "gen": 5
@@ -3324,7 +3324,7 @@
     "gen": 5
   },
   {
-    "pkm": "Darmanitan Standard",
+    "pkm": "Darmanita",
     "ndex": 555,
     "tipo": "fuego",
     "gen": 5
@@ -3840,13 +3840,13 @@
     "gen": 5
   },
   {
-    "pkm": "Tornadus-Incarnate",
+    "pkm": "Tornadus",
     "ndex": 641,
     "tipo": "volador",
     "gen": 5
   },
   {
-    "pkm": "Thundurus-Incarnate",
+    "pkm": "Thundurus",
     "ndex": 642,
     "tipo": "eléctrico/volador",
     "gen": 5
@@ -3864,7 +3864,7 @@
     "gen": 5
   },
   {
-    "pkm": "Landorus-Incarnate",
+    "pkm": "Landorus",
     "ndex": 645,
     "tipo": "tierra/volador",
     "gen": 5
@@ -3876,13 +3876,13 @@
     "gen": 5
   },
   {
-    "pkm": "Keldeo-Ordinary",
+    "pkm": "Keldeo",
     "ndex": 647,
     "tipo": "agua/lucha",
     "gen": 5
   },
   {
-    "pkm": "Meloetta-Aria",
+    "pkm": "Meloetta",
     "ndex": 648,
     "tipo": "normal/psíquico",
     "gen": 5
@@ -4062,7 +4062,7 @@
     "gen": 6
   },
   {
-    "pkm": "Meowstic Male",
+    "pkm": "Meowstic",
     "ndex": 678,
     "tipo": "psíquico",
     "gen": 6
@@ -4080,7 +4080,7 @@
     "gen": 6
   },
   {
-    "pkm": "Aegislash Shield",
+    "pkm": "Aegislash",
     "ndex": 681,
     "tipo": "acero/fantasma",
     "gen": 6
@@ -4254,13 +4254,13 @@
     "gen": 6
   },
   {
-    "pkm": "Pumpkaboo Average",
+    "pkm": "Pumpkaboo",
     "ndex": 710,
     "tipo": "fantasma/planta",
     "gen": 6
   },
   {
-    "pkm": "Gourgeist Average",
+    "pkm": "Gourgeist",
     "ndex": 711,
     "tipo": "fantasma/planta",
     "gen": 6
@@ -4302,7 +4302,7 @@
     "gen": 6
   },
   {
-    "pkm": "Zygarde-50",
+    "pkm": "Zygarde",
     "ndex": 718,
     "tipo": "dragón/tierra",
     "gen": 6
@@ -4440,7 +4440,7 @@
     "gen": 7
   },
   {
-    "pkm": "Oricorio Baile",
+    "pkm": "Oricorio",
     "ndex": 741,
     "tipo": "fuego/volador",
     "gen": 7
@@ -4464,13 +4464,13 @@
     "gen": 7
   },
   {
-    "pkm": "Lycanroc Midday",
+    "pkm": "Lycanroc",
     "ndex": 745,
     "tipo": "roca",
     "gen": 7
   },
   {
-    "pkm": "Wishiwashi Solo",
+    "pkm": "Wishiwashi",
     "ndex": 746,
     "tipo": "agua",
     "gen": 7
@@ -4638,7 +4638,7 @@
     "gen": 7
   },
   {
-    "pkm": "Minior Red Meteor",
+    "pkm": "Minior",
     "ndex": 774,
     "tipo": "roca/volador",
     "gen": 7
@@ -4662,7 +4662,7 @@
     "gen": 7
   },
   {
-    "pkm": "Mimikyu Disguised",
+    "pkm": "Mimikyu",
     "ndex": 778,
     "tipo": "fantasma/hada",
     "gen": 7
@@ -5244,19 +5244,19 @@
     "gen": 8
   },
   {
-    "pkm": "Eiscue Ice",
+    "pkm": "Eiscue",
     "ndex": 875,
     "tipo": "hielo",
     "gen": 8
   },
   {
-    "pkm": "Indeedee Male",
+    "pkm": "Indeedee",
     "ndex": 876,
     "tipo": "psíquico/normal",
     "gen": 8
   },
   {
-    "pkm": "Morpeko Full Belly",
+    "pkm": "Morpeko",
     "ndex": 877,
     "tipo": "eléctrico/siniestro",
     "gen": 8
@@ -5346,7 +5346,7 @@
     "gen": 8
   },
   {
-    "pkm": "Urshifu-Single-Strike",
+    "pkm": "Urshifu",
     "ndex": 892,
     "tipo": "lucha/siniestro",
     "gen": 8
@@ -5406,7 +5406,7 @@
     "gen": 8
   },
   {
-    "pkm": "Basculegion Male",
+    "pkm": "Basculegion",
     "ndex": 902,
     "tipo": "agua/fantasma",
     "gen": 8
@@ -5424,7 +5424,7 @@
     "gen": 8
   },
   {
-    "pkm": "Enamorus-Incarnate",
+    "pkm": "Enamorus",
     "ndex": 905,
     "tipo": "hada/volador",
     "gen": 8
@@ -5490,7 +5490,7 @@
     "gen": 9
   },
   {
-    "pkm": "Oinkologne Male",
+    "pkm": "Oinkologne",
     "ndex": 916,
     "tipo": "normal",
     "gen": 9
@@ -5544,7 +5544,7 @@
     "gen": 9
   },
   {
-    "pkm": "Maushold Family Of Four",
+    "pkm": "Maushold",
     "ndex": 925,
     "tipo": "normal",
     "gen": 9
@@ -5580,7 +5580,7 @@
     "gen": 9
   },
   {
-    "pkm": "Squawkabilly Green Plumage",
+    "pkm": "Squawkabilly",
     "ndex": 931,
     "tipo": "normal/volador",
     "gen": 9
@@ -5778,7 +5778,7 @@
     "gen": 9
   },
   {
-    "pkm": "Palafin Zero",
+    "pkm": "Palafin",
     "ndex": 964,
     "tipo": "agua",
     "gen": 9
@@ -5862,7 +5862,7 @@
     "gen": 9
   },
   {
-    "pkm": "Tatsugiri Curly",
+    "pkm": "Tatsugiri",
     "ndex": 978,
     "tipo": "dragón/agua",
     "gen": 9
@@ -5886,7 +5886,7 @@
     "gen": 9
   },
   {
-    "pkm": "Dudunsparce Two Segment",
+    "pkm": "Dudunsparce",
     "ndex": 982,
     "tipo": "normal",
     "gen": 9
