@@ -1,5 +1,18 @@
 import express, { Request, Response } from "express";
 import fs from "fs";
+import path from "path";
+
+
+const app = express();
+const port = 3000;
+
+app.use(express.json());
+
+app.use(express.static(path.join(__dirname)));
+
+app.get('/', (req: Request, res: Response) => {
+  res.sendFile(path.join(__dirname, 'index.html'));
+})
 
 const pokemons = "pokemons.json";
 
@@ -102,10 +115,6 @@ async function fetchStarter(name: string): Promise<Starter | null> {
   }
 }
 
-const app = express();
-const port = 3000;
-
-app.use(express.json());
 
 let starters: Starter[] = cargarPokes();
 
