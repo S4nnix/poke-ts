@@ -4704,25 +4704,25 @@
     "gen": 7
   },
   {
-    "pkm": "Tapu-Koko",
-    "ndex": 785,
+    "pkm": "Tapu Koko",
+    "ndex": 785,  
     "tipo": "eléctrico/hada",
     "gen": 7
   },
   {
-    "pkm": "Tapu-Lele",
+    "pkm": "Tapu Lele",
     "ndex": 786,
     "tipo": "psíquico/hada",
     "gen": 7
   },
   {
-    "pkm": "Tapu-Bulu",
+    "pkm": "Tapu Bulu",
     "ndex": 787,
     "tipo": "planta/hada",
     "gen": 7
   },
   {
-    "pkm": "Tapu-Fini",
+    "pkm": "Tapu Fini",
     "ndex": 788,
     "tipo": "agua/hada",
     "gen": 7
@@ -5898,73 +5898,73 @@
     "gen": 9
   },
   {
-    "pkm": "Great Tusk",
+    "pkm": "Colmilargo",
     "ndex": 984,
     "tipo": "tierra/lucha",
     "gen": 9
   },
   {
-    "pkm": "Scream Tail",
+    "pkm": "Colagrito",
     "ndex": 985,
     "tipo": "hada/psíquico",
     "gen": 9
   },
   {
-    "pkm": "Brute Bonnet",
+    "pkm": "Furioseta",
     "ndex": 986,
     "tipo": "planta/siniestro",
     "gen": 9
   },
   {
-    "pkm": "Flutter Mane",
+    "pkm": "Melenaleteo",
     "ndex": 987,
     "tipo": "fantasma/hada",
     "gen": 9
   },
   {
-    "pkm": "Slither Wing",
+    "pkm": "Reptalada",
     "ndex": 988,
     "tipo": "bicho/lucha",
     "gen": 9
   },
   {
-    "pkm": "Sandy Shocks",
+    "pkm": "Pelarena",
     "ndex": 989,
     "tipo": "eléctrico/tierra",
     "gen": 9
   },
   {
-    "pkm": "Iron Treads",
+    "pkm": "Ferrodada",
     "ndex": 990,
     "tipo": "tierra/acero",
     "gen": 9
   },
   {
-    "pkm": "Iron Bundle",
+    "pkm": "Ferrosaco",
     "ndex": 991,
     "tipo": "hielo/agua",
     "gen": 9
   },
   {
-    "pkm": "Iron Hands",
+    "pkm": "Ferropalmas",
     "ndex": 992,
     "tipo": "lucha/eléctrico",
     "gen": 9
   },
   {
-    "pkm": "Iron Jugulis",
+    "pkm": "Ferrocuello",
     "ndex": 993,
     "tipo": "siniestro/volador",
     "gen": 9
   },
   {
-    "pkm": "Iron Moth",
+    "pkm": "Ferropolilla",
     "ndex": 994,
     "tipo": "fuego/veneno",
     "gen": 9
   },
   {
-    "pkm": "Iron Thorns",
+    "pkm": "Ferropúas",
     "ndex": 995,
     "tipo": "roca/eléctrico",
     "gen": 9
@@ -6024,13 +6024,13 @@
     "gen": 9
   },
   {
-    "pkm": "Roaring Moon",
+    "pkm": "Bramaluna",
     "ndex": 1005,
     "tipo": "dragón/siniestro",
     "gen": 9
   },
   {
-    "pkm": "Iron Valiant",
+    "pkm": "Ferropaladín",
     "ndex": 1006,
     "tipo": "hada/lucha",
     "gen": 9
@@ -6048,13 +6048,13 @@
     "gen": 9
   },
   {
-    "pkm": "Walking Wake",
+    "pkm": "Ondulagua",
     "ndex": 1009,
     "tipo": "agua/dragón",
     "gen": 9
   },
   {
-    "pkm": "Iron Leaves",
+    "pkm": "Ferroverdor",
     "ndex": 1010,
     "tipo": "planta/psíquico",
     "gen": 9
