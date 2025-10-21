@@ -185,10 +185,6 @@ app.get("/pokes", (req: Request, res: Response) => {
   res.json(starters);
 });
 
-app.get("/", (req: Request, res: Response) => {
-  res.sendFile(__dirname + "/index.html");
-});
-
 app.listen(port, () => {
   console.log(`Servidor corriendo en http://localhost:${port}`);
 });
